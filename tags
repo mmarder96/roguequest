@@ -1,0 +1,926 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BAR_WIDTH	rogue-quest/tut_full.py	/^BAR_WIDTH = 20$/;"	v
+BKGND_ADD	rogue-quest/libtcodpy.py	/^BKGND_ADD = 8$/;"	v
+BKGND_ADDA	rogue-quest/libtcodpy.py	/^BKGND_ADDA = 9$/;"	v
+BKGND_ADDALPHA	rogue-quest/libtcodpy.py	/^def BKGND_ADDALPHA(a):$/;"	f
+BKGND_ALPH	rogue-quest/libtcodpy.py	/^BKGND_ALPH = 12$/;"	v
+BKGND_ALPHA	rogue-quest/libtcodpy.py	/^def BKGND_ALPHA(a):$/;"	f
+BKGND_BURN	rogue-quest/libtcodpy.py	/^BKGND_BURN = 10$/;"	v
+BKGND_COLOR_BURN	rogue-quest/libtcodpy.py	/^BKGND_COLOR_BURN = 7$/;"	v
+BKGND_COLOR_DODGE	rogue-quest/libtcodpy.py	/^BKGND_COLOR_DODGE = 6$/;"	v
+BKGND_DARKEN	rogue-quest/libtcodpy.py	/^BKGND_DARKEN = 4$/;"	v
+BKGND_DEFAULT	rogue-quest/libtcodpy.py	/^BKGND_DEFAULT=13$/;"	v
+BKGND_LIGHTEN	rogue-quest/libtcodpy.py	/^BKGND_LIGHTEN = 3$/;"	v
+BKGND_MULTIPLY	rogue-quest/libtcodpy.py	/^BKGND_MULTIPLY = 2$/;"	v
+BKGND_NONE	rogue-quest/libtcodpy.py	/^BKGND_NONE = 0$/;"	v
+BKGND_OVERLAY	rogue-quest/libtcodpy.py	/^BKGND_OVERLAY = 11$/;"	v
+BKGND_SCREEN	rogue-quest/libtcodpy.py	/^BKGND_SCREEN = 5$/;"	v
+BKGND_SET	rogue-quest/libtcodpy.py	/^BKGND_SET = 1$/;"	v
+BSP_CBK_FUNC	rogue-quest/libtcodpy.py	/^BSP_CBK_FUNC = CFUNCTYPE(c_int, c_void_p, c_void_p)$/;"	v
+BasicMonster	rogue-quest/tut_full.py	/^class BasicMonster:$/;"	c
+Bsp	rogue-quest/libtcodpy.py	/^class Bsp(object):$/;"	c
+CENTER	rogue-quest/libtcodpy.py	/^CENTER=2$/;"	v
+CHARACTER_SCREEN_WIDTH	rogue-quest/tut_full.py	/^CHARACTER_SCREEN_WIDTH = 30$/;"	v
+CHAR_ARROW2_E	rogue-quest/libtcodpy.py	/^CHAR_ARROW2_E = 16$/;"	v
+CHAR_ARROW2_N	rogue-quest/libtcodpy.py	/^CHAR_ARROW2_N = 30$/;"	v
+CHAR_ARROW2_S	rogue-quest/libtcodpy.py	/^CHAR_ARROW2_S = 31$/;"	v
+CHAR_ARROW2_W	rogue-quest/libtcodpy.py	/^CHAR_ARROW2_W = 17$/;"	v
+CHAR_ARROW_E	rogue-quest/libtcodpy.py	/^CHAR_ARROW_E = 26$/;"	v
+CHAR_ARROW_N	rogue-quest/libtcodpy.py	/^CHAR_ARROW_N = 24$/;"	v
+CHAR_ARROW_S	rogue-quest/libtcodpy.py	/^CHAR_ARROW_S = 25$/;"	v
+CHAR_ARROW_W	rogue-quest/libtcodpy.py	/^CHAR_ARROW_W = 27$/;"	v
+CHAR_BLOCK1	rogue-quest/libtcodpy.py	/^CHAR_BLOCK1 = 176$/;"	v
+CHAR_BLOCK2	rogue-quest/libtcodpy.py	/^CHAR_BLOCK2 = 177$/;"	v
+CHAR_BLOCK3	rogue-quest/libtcodpy.py	/^CHAR_BLOCK3 = 178$/;"	v
+CHAR_BULLET	rogue-quest/libtcodpy.py	/^CHAR_BULLET = 7$/;"	v
+CHAR_BULLET_INV	rogue-quest/libtcodpy.py	/^CHAR_BULLET_INV = 8$/;"	v
+CHAR_BULLET_SQUARE	rogue-quest/libtcodpy.py	/^CHAR_BULLET_SQUARE = 254$/;"	v
+CHAR_CENT	rogue-quest/libtcodpy.py	/^CHAR_CENT = 189$/;"	v
+CHAR_CHECKBOX_SET	rogue-quest/libtcodpy.py	/^CHAR_CHECKBOX_SET = 225$/;"	v
+CHAR_CHECKBOX_UNSET	rogue-quest/libtcodpy.py	/^CHAR_CHECKBOX_UNSET = 224$/;"	v
+CHAR_CLUB	rogue-quest/libtcodpy.py	/^CHAR_CLUB = 5$/;"	v
+CHAR_COPYRIGHT	rogue-quest/libtcodpy.py	/^CHAR_COPYRIGHT = 184$/;"	v
+CHAR_CROSS	rogue-quest/libtcodpy.py	/^CHAR_CROSS = 197$/;"	v
+CHAR_CURRENCY	rogue-quest/libtcodpy.py	/^CHAR_CURRENCY = 207$/;"	v
+CHAR_DARROW_H	rogue-quest/libtcodpy.py	/^CHAR_DARROW_H = 29$/;"	v
+CHAR_DARROW_V	rogue-quest/libtcodpy.py	/^CHAR_DARROW_V = 18$/;"	v
+CHAR_DCROSS	rogue-quest/libtcodpy.py	/^CHAR_DCROSS = 206$/;"	v
+CHAR_DHLINE	rogue-quest/libtcodpy.py	/^CHAR_DHLINE = 205$/;"	v
+CHAR_DIAMOND	rogue-quest/libtcodpy.py	/^CHAR_DIAMOND = 4$/;"	v
+CHAR_DIVISION	rogue-quest/libtcodpy.py	/^CHAR_DIVISION = 246$/;"	v
+CHAR_DNE	rogue-quest/libtcodpy.py	/^CHAR_DNE = 187$/;"	v
+CHAR_DNW	rogue-quest/libtcodpy.py	/^CHAR_DNW = 201$/;"	v
+CHAR_DSE	rogue-quest/libtcodpy.py	/^CHAR_DSE = 188$/;"	v
+CHAR_DSW	rogue-quest/libtcodpy.py	/^CHAR_DSW = 200$/;"	v
+CHAR_DTEEE	rogue-quest/libtcodpy.py	/^CHAR_DTEEE = 204$/;"	v
+CHAR_DTEEN	rogue-quest/libtcodpy.py	/^CHAR_DTEEN = 202$/;"	v
+CHAR_DTEES	rogue-quest/libtcodpy.py	/^CHAR_DTEES = 203$/;"	v
+CHAR_DTEEW	rogue-quest/libtcodpy.py	/^CHAR_DTEEW = 185$/;"	v
+CHAR_DVLINE	rogue-quest/libtcodpy.py	/^CHAR_DVLINE = 186$/;"	v
+CHAR_EXCLAM_DOUBLE	rogue-quest/libtcodpy.py	/^CHAR_EXCLAM_DOUBLE = 19$/;"	v
+CHAR_FEMALE	rogue-quest/libtcodpy.py	/^CHAR_FEMALE = 12$/;"	v
+CHAR_FUNCTION	rogue-quest/libtcodpy.py	/^CHAR_FUNCTION = 159$/;"	v
+CHAR_GRADE	rogue-quest/libtcodpy.py	/^CHAR_GRADE = 248$/;"	v
+CHAR_HALF	rogue-quest/libtcodpy.py	/^CHAR_HALF = 171$/;"	v
+CHAR_HEART	rogue-quest/libtcodpy.py	/^CHAR_HEART = 3$/;"	v
+CHAR_HLINE	rogue-quest/libtcodpy.py	/^CHAR_HLINE = 196$/;"	v
+CHAR_LIGHT	rogue-quest/libtcodpy.py	/^CHAR_LIGHT = 15$/;"	v
+CHAR_MALE	rogue-quest/libtcodpy.py	/^CHAR_MALE = 11$/;"	v
+CHAR_MULTIPLICATION	rogue-quest/libtcodpy.py	/^CHAR_MULTIPLICATION = 158$/;"	v
+CHAR_NE	rogue-quest/libtcodpy.py	/^CHAR_NE = 191$/;"	v
+CHAR_NOTE	rogue-quest/libtcodpy.py	/^CHAR_NOTE = 13$/;"	v
+CHAR_NOTE_DOUBLE	rogue-quest/libtcodpy.py	/^CHAR_NOTE_DOUBLE = 14$/;"	v
+CHAR_NW	rogue-quest/libtcodpy.py	/^CHAR_NW = 218$/;"	v
+CHAR_ONE_QUARTER	rogue-quest/libtcodpy.py	/^CHAR_ONE_QUARTER = 172$/;"	v
+CHAR_PILCROW	rogue-quest/libtcodpy.py	/^CHAR_PILCROW = 20$/;"	v
+CHAR_POUND	rogue-quest/libtcodpy.py	/^CHAR_POUND = 156$/;"	v
+CHAR_POW1	rogue-quest/libtcodpy.py	/^CHAR_POW1 = 251$/;"	v
+CHAR_POW2	rogue-quest/libtcodpy.py	/^CHAR_POW2 = 253$/;"	v
+CHAR_POW3	rogue-quest/libtcodpy.py	/^CHAR_POW3 = 252$/;"	v
+CHAR_RADIO_SET	rogue-quest/libtcodpy.py	/^CHAR_RADIO_SET = 10$/;"	v
+CHAR_RADIO_UNSET	rogue-quest/libtcodpy.py	/^CHAR_RADIO_UNSET = 9$/;"	v
+CHAR_RESERVED	rogue-quest/libtcodpy.py	/^CHAR_RESERVED = 169$/;"	v
+CHAR_SE	rogue-quest/libtcodpy.py	/^CHAR_SE = 217$/;"	v
+CHAR_SECTION	rogue-quest/libtcodpy.py	/^CHAR_SECTION = 21$/;"	v
+CHAR_SMILIE	rogue-quest/libtcodpy.py	/^CHAR_SMILIE = 1$/;"	v
+CHAR_SMILIE_INV	rogue-quest/libtcodpy.py	/^CHAR_SMILIE_INV = 2$/;"	v
+CHAR_SPADE	rogue-quest/libtcodpy.py	/^CHAR_SPADE = 6$/;"	v
+CHAR_SUBP_DIAG	rogue-quest/libtcodpy.py	/^CHAR_SUBP_DIAG = 230$/;"	v
+CHAR_SUBP_E	rogue-quest/libtcodpy.py	/^CHAR_SUBP_E = 231$/;"	v
+CHAR_SUBP_N	rogue-quest/libtcodpy.py	/^CHAR_SUBP_N = 228$/;"	v
+CHAR_SUBP_NE	rogue-quest/libtcodpy.py	/^CHAR_SUBP_NE = 227$/;"	v
+CHAR_SUBP_NW	rogue-quest/libtcodpy.py	/^CHAR_SUBP_NW = 226$/;"	v
+CHAR_SUBP_SE	rogue-quest/libtcodpy.py	/^CHAR_SUBP_SE = 229$/;"	v
+CHAR_SUBP_SW	rogue-quest/libtcodpy.py	/^CHAR_SUBP_SW = 232$/;"	v
+CHAR_SW	rogue-quest/libtcodpy.py	/^CHAR_SW = 192$/;"	v
+CHAR_TEEE	rogue-quest/libtcodpy.py	/^CHAR_TEEE = 195$/;"	v
+CHAR_TEEN	rogue-quest/libtcodpy.py	/^CHAR_TEEN = 193$/;"	v
+CHAR_TEES	rogue-quest/libtcodpy.py	/^CHAR_TEES = 194$/;"	v
+CHAR_TEEW	rogue-quest/libtcodpy.py	/^CHAR_TEEW = 180$/;"	v
+CHAR_THREE_QUARTERS	rogue-quest/libtcodpy.py	/^CHAR_THREE_QUARTERS = 243$/;"	v
+CHAR_UMLAUT	rogue-quest/libtcodpy.py	/^CHAR_UMLAUT = 249$/;"	v
+CHAR_VLINE	rogue-quest/libtcodpy.py	/^CHAR_VLINE = 179$/;"	v
+CHAR_YEN	rogue-quest/libtcodpy.py	/^CHAR_YEN = 190$/;"	v
+COLCTRL_1	rogue-quest/libtcodpy.py	/^COLCTRL_1=1$/;"	v
+COLCTRL_2	rogue-quest/libtcodpy.py	/^COLCTRL_2=2$/;"	v
+COLCTRL_3	rogue-quest/libtcodpy.py	/^COLCTRL_3=3$/;"	v
+COLCTRL_4	rogue-quest/libtcodpy.py	/^COLCTRL_4=4$/;"	v
+COLCTRL_5	rogue-quest/libtcodpy.py	/^COLCTRL_5=5$/;"	v
+COLCTRL_BACK_RGB	rogue-quest/libtcodpy.py	/^COLCTRL_BACK_RGB=7$/;"	v
+COLCTRL_FORE_RGB	rogue-quest/libtcodpy.py	/^COLCTRL_FORE_RGB=6$/;"	v
+COLCTRL_NUMBER	rogue-quest/libtcodpy.py	/^COLCTRL_NUMBER=5$/;"	v
+COLCTRL_STOP	rogue-quest/libtcodpy.py	/^COLCTRL_STOP=8$/;"	v
+CONFUSE_NUM_TURNS	rogue-quest/tut_full.py	/^CONFUSE_NUM_TURNS = 10$/;"	v
+CONFUSE_RANGE	rogue-quest/tut_full.py	/^CONFUSE_RANGE = 8$/;"	v
+Color	rogue-quest/libtcodpy.py	/^class Color(Structure):$/;"	c
+ConfusedMonster	rogue-quest/tut_full.py	/^class ConfusedMonster:$/;"	c
+ConsoleBuffer	rogue-quest/libtcodpy.py	/^class ConsoleBuffer:$/;"	c
+DISTRIBUTION_GAUSSIAN	rogue-quest/libtcodpy.py	/^DISTRIBUTION_GAUSSIAN = 1$/;"	v
+DISTRIBUTION_GAUSSIAN_INVERSE	rogue-quest/libtcodpy.py	/^DISTRIBUTION_GAUSSIAN_INVERSE = 3$/;"	v
+DISTRIBUTION_GAUSSIAN_RANGE	rogue-quest/libtcodpy.py	/^DISTRIBUTION_GAUSSIAN_RANGE = 2$/;"	v
+DISTRIBUTION_GAUSSIAN_RANGE_INVERSE	rogue-quest/libtcodpy.py	/^DISTRIBUTION_GAUSSIAN_RANGE_INVERSE = 4$/;"	v
+DISTRIBUTION_LINEAR	rogue-quest/libtcodpy.py	/^DISTRIBUTION_LINEAR = 0$/;"	v
+Dice	rogue-quest/libtcodpy.py	/^class Dice(Structure):$/;"	c
+EVENT_ANY	rogue-quest/libtcodpy.py	/^EVENT_ANY=EVENT_KEY|EVENT_MOUSE$/;"	v
+EVENT_KEY	rogue-quest/libtcodpy.py	/^EVENT_KEY=EVENT_KEY_PRESS|EVENT_KEY_RELEASE$/;"	v
+EVENT_KEY_PRESS	rogue-quest/libtcodpy.py	/^EVENT_KEY_PRESS=1$/;"	v
+EVENT_KEY_RELEASE	rogue-quest/libtcodpy.py	/^EVENT_KEY_RELEASE=2$/;"	v
+EVENT_MOUSE	rogue-quest/libtcodpy.py	/^EVENT_MOUSE=EVENT_MOUSE_MOVE|EVENT_MOUSE_PRESS|EVENT_MOUSE_RELEASE$/;"	v
+EVENT_MOUSE_MOVE	rogue-quest/libtcodpy.py	/^EVENT_MOUSE_MOVE=4$/;"	v
+EVENT_MOUSE_PRESS	rogue-quest/libtcodpy.py	/^EVENT_MOUSE_PRESS=8$/;"	v
+EVENT_MOUSE_RELEASE	rogue-quest/libtcodpy.py	/^EVENT_MOUSE_RELEASE=16$/;"	v
+Equipment	rogue-quest/tut_full.py	/^class Equipment:$/;"	c
+FIREBALL_DAMAGE	rogue-quest/tut_full.py	/^FIREBALL_DAMAGE = 25$/;"	v
+FIREBALL_RADIUS	rogue-quest/tut_full.py	/^FIREBALL_RADIUS = 3$/;"	v
+FONT_LAYOUT_ASCII_INCOL	rogue-quest/libtcodpy.py	/^FONT_LAYOUT_ASCII_INCOL = 1$/;"	v
+FONT_LAYOUT_ASCII_INROW	rogue-quest/libtcodpy.py	/^FONT_LAYOUT_ASCII_INROW = 2$/;"	v
+FONT_LAYOUT_TCOD	rogue-quest/libtcodpy.py	/^FONT_LAYOUT_TCOD = 8$/;"	v
+FONT_TYPE_GRAYSCALE	rogue-quest/libtcodpy.py	/^FONT_TYPE_GRAYSCALE = 4$/;"	v
+FONT_TYPE_GREYSCALE	rogue-quest/libtcodpy.py	/^FONT_TYPE_GREYSCALE = 4$/;"	v
+FOV_ALGO	rogue-quest/tut_full.py	/^FOV_ALGO = 0  #default FOV algorithm$/;"	v
+FOV_BASIC	rogue-quest/libtcodpy.py	/^FOV_BASIC = 0$/;"	v
+FOV_DIAMOND	rogue-quest/libtcodpy.py	/^FOV_DIAMOND = 1$/;"	v
+FOV_LIGHT_WALLS	rogue-quest/tut_full.py	/^FOV_LIGHT_WALLS = True  #light walls or not$/;"	v
+FOV_PERMISSIVE	rogue-quest/libtcodpy.py	/^def FOV_PERMISSIVE(p) :$/;"	f
+FOV_PERMISSIVE_0	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_0 = 3$/;"	v
+FOV_PERMISSIVE_1	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_1 = 4$/;"	v
+FOV_PERMISSIVE_2	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_2 = 5$/;"	v
+FOV_PERMISSIVE_3	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_3 = 6$/;"	v
+FOV_PERMISSIVE_4	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_4 = 7$/;"	v
+FOV_PERMISSIVE_5	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_5 = 8$/;"	v
+FOV_PERMISSIVE_6	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_6 = 9$/;"	v
+FOV_PERMISSIVE_7	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_7 = 10$/;"	v
+FOV_PERMISSIVE_8	rogue-quest/libtcodpy.py	/^FOV_PERMISSIVE_8 = 11$/;"	v
+FOV_RESTRICTIVE	rogue-quest/libtcodpy.py	/^FOV_RESTRICTIVE = 12$/;"	v
+FOV_SHADOW	rogue-quest/libtcodpy.py	/^FOV_SHADOW = 2$/;"	v
+Fighter	rogue-quest/tut_full.py	/^class Fighter:$/;"	c
+HAIKU	rogue-quest/libtcodpy.py	/^    HAIKU = True$/;"	v
+HEAL_AMOUNT	rogue-quest/tut_full.py	/^HEAL_AMOUNT = 40$/;"	v
+HEXVERSION	rogue-quest/libtcodpy.py	/^HEXVERSION = 0x010501$/;"	v
+HeightMap	rogue-quest/libtcodpy.py	/^class HeightMap(object):$/;"	c
+INVENTORY_WIDTH	rogue-quest/tut_full.py	/^INVENTORY_WIDTH = 50$/;"	v
+Item	rogue-quest/tut_full.py	/^class Item:$/;"	c
+KEY_0	rogue-quest/libtcodpy.py	/^KEY_0 = 24$/;"	v
+KEY_1	rogue-quest/libtcodpy.py	/^KEY_1 = 25$/;"	v
+KEY_2	rogue-quest/libtcodpy.py	/^KEY_2 = 26$/;"	v
+KEY_3	rogue-quest/libtcodpy.py	/^KEY_3 = 27$/;"	v
+KEY_4	rogue-quest/libtcodpy.py	/^KEY_4 = 28$/;"	v
+KEY_5	rogue-quest/libtcodpy.py	/^KEY_5 = 29$/;"	v
+KEY_6	rogue-quest/libtcodpy.py	/^KEY_6 = 30$/;"	v
+KEY_7	rogue-quest/libtcodpy.py	/^KEY_7 = 31$/;"	v
+KEY_8	rogue-quest/libtcodpy.py	/^KEY_8 = 32$/;"	v
+KEY_9	rogue-quest/libtcodpy.py	/^KEY_9 = 33$/;"	v
+KEY_ALT	rogue-quest/libtcodpy.py	/^KEY_ALT = 7$/;"	v
+KEY_APPS	rogue-quest/libtcodpy.py	/^KEY_APPS = 23$/;"	v
+KEY_BACKSPACE	rogue-quest/libtcodpy.py	/^KEY_BACKSPACE = 2$/;"	v
+KEY_CAPSLOCK	rogue-quest/libtcodpy.py	/^KEY_CAPSLOCK = 9$/;"	v
+KEY_CHAR	rogue-quest/libtcodpy.py	/^KEY_CHAR = 65$/;"	v
+KEY_CONTROL	rogue-quest/libtcodpy.py	/^KEY_CONTROL = 6$/;"	v
+KEY_DELETE	rogue-quest/libtcodpy.py	/^KEY_DELETE = 20$/;"	v
+KEY_DOWN	rogue-quest/libtcodpy.py	/^KEY_DOWN = 17$/;"	v
+KEY_END	rogue-quest/libtcodpy.py	/^KEY_END = 12$/;"	v
+KEY_ENTER	rogue-quest/libtcodpy.py	/^KEY_ENTER = 4$/;"	v
+KEY_ESCAPE	rogue-quest/libtcodpy.py	/^KEY_ESCAPE = 1$/;"	v
+KEY_F1	rogue-quest/libtcodpy.py	/^KEY_F1 = 50$/;"	v
+KEY_F10	rogue-quest/libtcodpy.py	/^KEY_F10 = 59$/;"	v
+KEY_F11	rogue-quest/libtcodpy.py	/^KEY_F11 = 60$/;"	v
+KEY_F12	rogue-quest/libtcodpy.py	/^KEY_F12 = 61$/;"	v
+KEY_F2	rogue-quest/libtcodpy.py	/^KEY_F2 = 51$/;"	v
+KEY_F3	rogue-quest/libtcodpy.py	/^KEY_F3 = 52$/;"	v
+KEY_F4	rogue-quest/libtcodpy.py	/^KEY_F4 = 53$/;"	v
+KEY_F5	rogue-quest/libtcodpy.py	/^KEY_F5 = 54$/;"	v
+KEY_F6	rogue-quest/libtcodpy.py	/^KEY_F6 = 55$/;"	v
+KEY_F7	rogue-quest/libtcodpy.py	/^KEY_F7 = 56$/;"	v
+KEY_F8	rogue-quest/libtcodpy.py	/^KEY_F8 = 57$/;"	v
+KEY_F9	rogue-quest/libtcodpy.py	/^KEY_F9 = 58$/;"	v
+KEY_HOME	rogue-quest/libtcodpy.py	/^KEY_HOME = 13$/;"	v
+KEY_INSERT	rogue-quest/libtcodpy.py	/^KEY_INSERT = 19$/;"	v
+KEY_KP0	rogue-quest/libtcodpy.py	/^KEY_KP0 = 34$/;"	v
+KEY_KP1	rogue-quest/libtcodpy.py	/^KEY_KP1 = 35$/;"	v
+KEY_KP2	rogue-quest/libtcodpy.py	/^KEY_KP2 = 36$/;"	v
+KEY_KP3	rogue-quest/libtcodpy.py	/^KEY_KP3 = 37$/;"	v
+KEY_KP4	rogue-quest/libtcodpy.py	/^KEY_KP4 = 38$/;"	v
+KEY_KP5	rogue-quest/libtcodpy.py	/^KEY_KP5 = 39$/;"	v
+KEY_KP6	rogue-quest/libtcodpy.py	/^KEY_KP6 = 40$/;"	v
+KEY_KP7	rogue-quest/libtcodpy.py	/^KEY_KP7 = 41$/;"	v
+KEY_KP8	rogue-quest/libtcodpy.py	/^KEY_KP8 = 42$/;"	v
+KEY_KP9	rogue-quest/libtcodpy.py	/^KEY_KP9 = 43$/;"	v
+KEY_KPADD	rogue-quest/libtcodpy.py	/^KEY_KPADD = 44$/;"	v
+KEY_KPDEC	rogue-quest/libtcodpy.py	/^KEY_KPDEC = 48$/;"	v
+KEY_KPDIV	rogue-quest/libtcodpy.py	/^KEY_KPDIV = 46$/;"	v
+KEY_KPENTER	rogue-quest/libtcodpy.py	/^KEY_KPENTER = 49$/;"	v
+KEY_KPMUL	rogue-quest/libtcodpy.py	/^KEY_KPMUL = 47$/;"	v
+KEY_KPSUB	rogue-quest/libtcodpy.py	/^KEY_KPSUB = 45$/;"	v
+KEY_LEFT	rogue-quest/libtcodpy.py	/^KEY_LEFT = 15$/;"	v
+KEY_LWIN	rogue-quest/libtcodpy.py	/^KEY_LWIN = 21$/;"	v
+KEY_NONE	rogue-quest/libtcodpy.py	/^KEY_NONE = 0$/;"	v
+KEY_NUMLOCK	rogue-quest/libtcodpy.py	/^KEY_NUMLOCK = 62$/;"	v
+KEY_PAGEDOWN	rogue-quest/libtcodpy.py	/^KEY_PAGEDOWN = 11$/;"	v
+KEY_PAGEUP	rogue-quest/libtcodpy.py	/^KEY_PAGEUP = 10$/;"	v
+KEY_PAUSE	rogue-quest/libtcodpy.py	/^KEY_PAUSE = 8$/;"	v
+KEY_PRESSED	rogue-quest/libtcodpy.py	/^KEY_PRESSED = 1$/;"	v
+KEY_PRINTSCREEN	rogue-quest/libtcodpy.py	/^KEY_PRINTSCREEN = 18$/;"	v
+KEY_RELEASED	rogue-quest/libtcodpy.py	/^KEY_RELEASED = 2$/;"	v
+KEY_RIGHT	rogue-quest/libtcodpy.py	/^KEY_RIGHT = 16$/;"	v
+KEY_RWIN	rogue-quest/libtcodpy.py	/^KEY_RWIN = 22$/;"	v
+KEY_SCROLLLOCK	rogue-quest/libtcodpy.py	/^KEY_SCROLLLOCK = 63$/;"	v
+KEY_SHIFT	rogue-quest/libtcodpy.py	/^KEY_SHIFT = 5$/;"	v
+KEY_SPACE	rogue-quest/libtcodpy.py	/^KEY_SPACE = 64$/;"	v
+KEY_TAB	rogue-quest/libtcodpy.py	/^KEY_TAB = 3$/;"	v
+KEY_UP	rogue-quest/libtcodpy.py	/^KEY_UP = 14$/;"	v
+Key	rogue-quest/libtcodpy.py	/^class Key(Structure):$/;"	c
+LEFT	rogue-quest/libtcodpy.py	/^LEFT=0$/;"	v
+LEVEL_SCREEN_WIDTH	rogue-quest/tut_full.py	/^LEVEL_SCREEN_WIDTH = 40$/;"	v
+LEVEL_UP_BASE	rogue-quest/tut_full.py	/^LEVEL_UP_BASE = 200$/;"	v
+LEVEL_UP_FACTOR	rogue-quest/tut_full.py	/^LEVEL_UP_FACTOR = 150$/;"	v
+LIGHTNING_DAMAGE	rogue-quest/tut_full.py	/^LIGHTNING_DAMAGE = 40$/;"	v
+LIGHTNING_RANGE	rogue-quest/tut_full.py	/^LIGHTNING_RANGE = 5$/;"	v
+LIMIT_FPS	rogue-quest/external.py	/^LIMIT_FPS = 20$/;"	v
+LIMIT_FPS	rogue-quest/tut_full.py	/^LIMIT_FPS = 20  #20 frames-per-second maximum$/;"	v
+LINUX	rogue-quest/libtcodpy.py	/^    LINUX=True$/;"	v
+LINUX	rogue-quest/libtcodpy.py	/^LINUX=False$/;"	v
+MAC	rogue-quest/libtcodpy.py	/^    MAC = True$/;"	v
+MAC	rogue-quest/libtcodpy.py	/^MAC=False$/;"	v
+MAP_HEIGHT	rogue-quest/external.py	/^MAP_HEIGHT = 45$/;"	v
+MAP_HEIGHT	rogue-quest/tut_full.py	/^MAP_HEIGHT = 43$/;"	v
+MAP_WIDTH	rogue-quest/external.py	/^MAP_WIDTH = 80$/;"	v
+MAP_WIDTH	rogue-quest/tut_full.py	/^MAP_WIDTH = 80$/;"	v
+MAX_ROOMS	rogue-quest/tut_full.py	/^MAX_ROOMS = 30$/;"	v
+MINGW	rogue-quest/libtcodpy.py	/^        MINGW=True$/;"	v
+MINGW	rogue-quest/libtcodpy.py	/^MINGW=False$/;"	v
+MSG_HEIGHT	rogue-quest/tut_full.py	/^MSG_HEIGHT = PANEL_HEIGHT - 1$/;"	v
+MSG_WIDTH	rogue-quest/tut_full.py	/^MSG_WIDTH = SCREEN_WIDTH - BAR_WIDTH - 2$/;"	v
+MSG_X	rogue-quest/tut_full.py	/^MSG_X = BAR_WIDTH + 2$/;"	v
+MSVC	rogue-quest/libtcodpy.py	/^        MSVC=True$/;"	v
+MSVC	rogue-quest/libtcodpy.py	/^MSVC=False$/;"	v
+Map	rogue-quest/map.py	/^class Map(object):$/;"	c
+Mouse	rogue-quest/libtcodpy.py	/^class Mouse(Structure):$/;"	c
+NB_FOV_ALGORITHMS	rogue-quest/libtcodpy.py	/^NB_FOV_ALGORITHMS = 13$/;"	v
+NB_RENDERERS	rogue-quest/libtcodpy.py	/^NB_RENDERERS=3$/;"	v
+NOISE_DEFAULT	rogue-quest/libtcodpy.py	/^NOISE_DEFAULT = 0$/;"	v
+NOISE_DEFAULT_HURST	rogue-quest/libtcodpy.py	/^NOISE_DEFAULT_HURST = 0.5$/;"	v
+NOISE_DEFAULT_LACUNARITY	rogue-quest/libtcodpy.py	/^NOISE_DEFAULT_LACUNARITY = 2.0$/;"	v
+NOISE_PERLIN	rogue-quest/libtcodpy.py	/^NOISE_PERLIN = 1$/;"	v
+NOISE_SIMPLEX	rogue-quest/libtcodpy.py	/^NOISE_SIMPLEX = 2$/;"	v
+NOISE_WAVELET	rogue-quest/libtcodpy.py	/^NOISE_WAVELET = 4$/;"	v
+Object	rogue-quest/object.py	/^class Object(object):$/;"	c
+Object	rogue-quest/tut_full.py	/^class Object:$/;"	c
+PANEL_HEIGHT	rogue-quest/tut_full.py	/^PANEL_HEIGHT = 7$/;"	v
+PANEL_Y	rogue-quest/tut_full.py	/^PANEL_Y = SCREEN_HEIGHT - PANEL_HEIGHT$/;"	v
+PATH_CBK_FUNC	rogue-quest/libtcodpy.py	/^PATH_CBK_FUNC = CFUNCTYPE(c_float, c_int, c_int, c_int, c_int, py_object)$/;"	v
+RENDERER_GLSL	rogue-quest/libtcodpy.py	/^RENDERER_GLSL=0$/;"	v
+RENDERER_OPENGL	rogue-quest/libtcodpy.py	/^RENDERER_OPENGL=1$/;"	v
+RENDERER_SDL	rogue-quest/libtcodpy.py	/^RENDERER_SDL=2$/;"	v
+RIGHT	rogue-quest/libtcodpy.py	/^RIGHT=1$/;"	v
+RNG_CMWC	rogue-quest/libtcodpy.py	/^RNG_CMWC = 1$/;"	v
+RNG_MT	rogue-quest/libtcodpy.py	/^RNG_MT = 0$/;"	v
+ROOM_MAX_SIZE	rogue-quest/tut_full.py	/^ROOM_MAX_SIZE = 10$/;"	v
+ROOM_MIN_SIZE	rogue-quest/tut_full.py	/^ROOM_MIN_SIZE = 6$/;"	v
+Rect	rogue-quest/tut_full.py	/^class Rect:$/;"	c
+Rectangle	rogue-quest/map.py	/^class Rectangle(object):$/;"	c
+SCREEN_HEIGHT	rogue-quest/external.py	/^SCREEN_HEIGHT = 50$/;"	v
+SCREEN_HEIGHT	rogue-quest/tut_full.py	/^SCREEN_HEIGHT = 50$/;"	v
+SCREEN_WIDTH	rogue-quest/external.py	/^SCREEN_WIDTH = 80$/;"	v
+SCREEN_WIDTH	rogue-quest/tut_full.py	/^SCREEN_WIDTH = 80$/;"	v
+SDL_RENDERER_FUNC	rogue-quest/libtcodpy.py	/^SDL_RENDERER_FUNC = CFUNCTYPE(None, c_void_p)$/;"	v
+STRVERSION	rogue-quest/libtcodpy.py	/^STRVERSION = "1.5.1"$/;"	v
+TECHVERSION	rogue-quest/libtcodpy.py	/^TECHVERSION = 0x01050103$/;"	v
+TORCH_RADIUS	rogue-quest/tut_full.py	/^TORCH_RADIUS = 10$/;"	v
+TYPE_BOOL	rogue-quest/libtcodpy.py	/^TYPE_BOOL = 1$/;"	v
+TYPE_CHAR	rogue-quest/libtcodpy.py	/^TYPE_CHAR = 2$/;"	v
+TYPE_COLOR	rogue-quest/libtcodpy.py	/^TYPE_COLOR = 6$/;"	v
+TYPE_DICE	rogue-quest/libtcodpy.py	/^TYPE_DICE = 7$/;"	v
+TYPE_FLOAT	rogue-quest/libtcodpy.py	/^TYPE_FLOAT = 4$/;"	v
+TYPE_INT	rogue-quest/libtcodpy.py	/^TYPE_INT = 3$/;"	v
+TYPE_LIST	rogue-quest/libtcodpy.py	/^TYPE_LIST = 1024$/;"	v
+TYPE_NONE	rogue-quest/libtcodpy.py	/^TYPE_NONE = 0$/;"	v
+TYPE_STRING	rogue-quest/libtcodpy.py	/^TYPE_STRING = 5$/;"	v
+TYPE_VALUELIST00	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST00 = 8$/;"	v
+TYPE_VALUELIST01	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST01 = 9$/;"	v
+TYPE_VALUELIST02	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST02 = 10$/;"	v
+TYPE_VALUELIST03	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST03 = 11$/;"	v
+TYPE_VALUELIST04	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST04 = 12$/;"	v
+TYPE_VALUELIST05	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST05 = 13$/;"	v
+TYPE_VALUELIST06	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST06 = 14$/;"	v
+TYPE_VALUELIST07	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST07 = 15$/;"	v
+TYPE_VALUELIST08	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST08 = 16$/;"	v
+TYPE_VALUELIST09	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST09 = 17$/;"	v
+TYPE_VALUELIST10	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST10 = 18$/;"	v
+TYPE_VALUELIST11	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST11 = 19$/;"	v
+TYPE_VALUELIST12	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST12 = 20$/;"	v
+TYPE_VALUELIST13	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST13 = 21$/;"	v
+TYPE_VALUELIST14	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST14 = 22$/;"	v
+TYPE_VALUELIST15	rogue-quest/libtcodpy.py	/^TYPE_VALUELIST15 = 23$/;"	v
+Tile	rogue-quest/tile.py	/^class Tile(object):$/;"	c
+Tile	rogue-quest/tut_full.py	/^class Tile:$/;"	c
+_CBsp	rogue-quest/libtcodpy.py	/^class _CBsp(Structure):$/;"	c
+_CFUNC_NEW_FLAG	rogue-quest/libtcodpy.py	/^_CFUNC_NEW_FLAG = CFUNCTYPE(c_uint, c_char_p)$/;"	v
+_CFUNC_NEW_PROPERTY	rogue-quest/libtcodpy.py	/^_CFUNC_NEW_PROPERTY = CFUNCTYPE(c_uint, c_char_p, c_int, _CValue)$/;"	v
+_CFUNC_NEW_STRUCT	rogue-quest/libtcodpy.py	/^_CFUNC_NEW_STRUCT = CFUNCTYPE(c_uint, c_void_p, c_char_p)$/;"	v
+_CHeightMap	rogue-quest/libtcodpy.py	/^class _CHeightMap(Structure):$/;"	c
+_CParserListener	rogue-quest/libtcodpy.py	/^class _CParserListener(Structure):$/;"	c
+_CValue	rogue-quest/libtcodpy.py	/^class _CValue(Union):$/;"	c
+_NOISE_PACKER_FUNC	rogue-quest/libtcodpy.py	/^_NOISE_PACKER_FUNC = (None,$/;"	v
+__add__	rogue-quest/libtcodpy.py	/^    def __add__(self, c):$/;"	m	class:Color	file:
+__eq__	rogue-quest/libtcodpy.py	/^    def __eq__(self, c):$/;"	m	class:Color	file:
+__font	rogue-quest/external.py	/^__font = os.path.join('..\/data', 'fonts', 'arial12x12.png')$/;"	v
+__getitem__	rogue-quest/libtcodpy.py	/^    def __getitem__(self, i):$/;"	m	class:Color	file:
+__init__	rogue-quest/libtcodpy.py	/^    def __init__(self, chm):$/;"	m	class:HeightMap
+__init__	rogue-quest/libtcodpy.py	/^    def __init__(self, cnode):$/;"	m	class:Bsp
+__init__	rogue-quest/libtcodpy.py	/^    def __init__(self, width, height, back_r=0, back_g=0, back_b=0, fore_r=0, fore_g=0, fore_b=0, char=' '):$/;"	m	class:ConsoleBuffer
+__init__	rogue-quest/map.py	/^    def __init__(self, width, height):$/;"	m	class:Map
+__init__	rogue-quest/map.py	/^    def __init__(self, x, y, w, h):$/;"	m	class:Rectangle
+__init__	rogue-quest/object.py	/^    def __init__(self, x, y, char, color):$/;"	m	class:Object
+__init__	rogue-quest/tile.py	/^    def __init__(self, blocking, block_sight = None):$/;"	m	class:Tile
+__init__	rogue-quest/tut_full.py	/^    def __init__(self, blocked, block_sight = None):$/;"	m	class:Tile
+__init__	rogue-quest/tut_full.py	/^    def __init__(self, hp, defense, power, xp, death_function=None):$/;"	m	class:Fighter
+__init__	rogue-quest/tut_full.py	/^    def __init__(self, old_ai, num_turns=CONFUSE_NUM_TURNS):$/;"	m	class:ConfusedMonster
+__init__	rogue-quest/tut_full.py	/^    def __init__(self, slot, power_bonus=0, defense_bonus=0, max_hp_bonus=0):$/;"	m	class:Equipment
+__init__	rogue-quest/tut_full.py	/^    def __init__(self, use_function=None):$/;"	m	class:Item
+__init__	rogue-quest/tut_full.py	/^    def __init__(self, x, y, char, name, color, blocks=False, always_visible=False, fighter=None, ai=None, item=None, equipment=None):$/;"	m	class:Object
+__init__	rogue-quest/tut_full.py	/^    def __init__(self, x, y, w, h):$/;"	m	class:Rect
+__iter__	rogue-quest/libtcodpy.py	/^    def __iter__(self):$/;"	m	class:Color	file:
+__mul__	rogue-quest/libtcodpy.py	/^    def __mul__(self, c):$/;"	m	class:Color	file:
+__repr__	rogue-quest/libtcodpy.py	/^    def __repr__(self):$/;"	m	class:Color	file:
+__repr__	rogue-quest/libtcodpy.py	/^    def __repr__(self):$/;"	m	class:Dice	file:
+__setitem__	rogue-quest/libtcodpy.py	/^    def __setitem__(self, i, c):$/;"	m	class:Color	file:
+__sub__	rogue-quest/libtcodpy.py	/^    def __sub__(self, c):$/;"	m	class:Color	file:
+_bsp_traverse	rogue-quest/libtcodpy.py	/^def _bsp_traverse(node, callback, userData, func):$/;"	f
+_convert_TCODList	rogue-quest/libtcodpy.py	/^def _convert_TCODList(clist, typ):$/;"	f
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_ = [('next', c_void_p),$/;"	v	class:_CBsp
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_ = [('r', c_uint8),$/;"	v	class:Color
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_=[('c',c_uint8),$/;"	v	class:_CValue
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_=[('nb_dices', c_int),$/;"	v	class:Dice
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_=[('new_struct', _CFUNC_NEW_STRUCT),$/;"	v	class:_CParserListener
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_=[('vk', c_int),$/;"	v	class:Key
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_=[('w', c_int),$/;"	v	class:_CHeightMap
+_fields_	rogue-quest/libtcodpy.py	/^    _fields_=[('x', c_int),$/;"	v	class:Mouse
+_lib	rogue-quest/libtcodpy.py	/^        _lib = ctypes.cdll['.\/libtcod-VS.dll']$/;"	v
+_lib	rogue-quest/libtcodpy.py	/^        _lib = ctypes.cdll['.\/libtcod-mingw.dll']$/;"	v
+_lib	rogue-quest/libtcodpy.py	/^    _lib = ctypes.cdll['.\/libtcod.dylib']$/;"	v
+_lib	rogue-quest/libtcodpy.py	/^    _lib = ctypes.cdll['.\/libtcod.so']$/;"	v
+amber	rogue-quest/libtcodpy.py	/^amber=Color(255,191,0)$/;"	v
+attack	rogue-quest/tut_full.py	/^    def attack(self, target):$/;"	m	class:Fighter
+azure	rogue-quest/libtcodpy.py	/^azure=Color(0,127,255)$/;"	v
+black	rogue-quest/libtcodpy.py	/^black=Color(0,0,0)$/;"	v
+blit	rogue-quest/libtcodpy.py	/^    def blit(self, dest, fill_fore=True, fill_back=True):$/;"	m	class:ConsoleBuffer
+block_sight	rogue-quest/tile.py	/^    def block_sight(self):$/;"	m	class:Tile
+block_sight	rogue-quest/tile.py	/^    def block_sight(self, value):$/;"	m	class:Tile
+blocking	rogue-quest/tile.py	/^    def blocking(self):$/;"	m	class:Tile
+blocking	rogue-quest/tile.py	/^    def blocking(self, value):$/;"	m	class:Tile
+blue	rogue-quest/libtcodpy.py	/^blue=Color(0,0,255)$/;"	v
+brass	rogue-quest/libtcodpy.py	/^brass=Color(191,151,96)$/;"	v
+bsp_contains	rogue-quest/libtcodpy.py	/^def bsp_contains(node, cx, cy):$/;"	f
+bsp_delete	rogue-quest/libtcodpy.py	/^def bsp_delete(node):$/;"	f
+bsp_father	rogue-quest/libtcodpy.py	/^def bsp_father(node):$/;"	f
+bsp_find_node	rogue-quest/libtcodpy.py	/^def bsp_find_node(node, cx, cy):$/;"	f
+bsp_is_leaf	rogue-quest/libtcodpy.py	/^def bsp_is_leaf(node):$/;"	f
+bsp_left	rogue-quest/libtcodpy.py	/^def bsp_left(node):$/;"	f
+bsp_new_with_size	rogue-quest/libtcodpy.py	/^def bsp_new_with_size(x, y, w, h):$/;"	f
+bsp_remove_sons	rogue-quest/libtcodpy.py	/^def bsp_remove_sons(node):$/;"	f
+bsp_resize	rogue-quest/libtcodpy.py	/^def bsp_resize(node, x, y, w, h):$/;"	f
+bsp_right	rogue-quest/libtcodpy.py	/^def bsp_right(node):$/;"	f
+bsp_split_once	rogue-quest/libtcodpy.py	/^def bsp_split_once(node, horizontal, position):$/;"	f
+bsp_split_recursive	rogue-quest/libtcodpy.py	/^def bsp_split_recursive(node, randomizer, nb, minHSize, minVSize, maxHRatio,$/;"	f
+bsp_traverse_in_order	rogue-quest/libtcodpy.py	/^def bsp_traverse_in_order(node, callback, userData=0):$/;"	f
+bsp_traverse_inverted_level_order	rogue-quest/libtcodpy.py	/^def bsp_traverse_inverted_level_order(node, callback, userData=0):$/;"	f
+bsp_traverse_level_order	rogue-quest/libtcodpy.py	/^def bsp_traverse_level_order(node, callback, userData=0):$/;"	f
+bsp_traverse_post_order	rogue-quest/libtcodpy.py	/^def bsp_traverse_post_order(node, callback, userData=0):$/;"	f
+bsp_traverse_pre_order	rogue-quest/libtcodpy.py	/^def bsp_traverse_pre_order(node, callback, userData=0):$/;"	f
+c_bool	rogue-quest/libtcodpy.py	/^    c_bool = c_uint8$/;"	v
+cast_confuse	rogue-quest/tut_full.py	/^def cast_confuse():$/;"	f
+cast_fireball	rogue-quest/tut_full.py	/^def cast_fireball():$/;"	f
+cast_heal	rogue-quest/tut_full.py	/^def cast_heal():$/;"	f
+cast_lightning	rogue-quest/tut_full.py	/^def cast_lightning():$/;"	f
+celadon	rogue-quest/libtcodpy.py	/^celadon=Color(172,255,175)$/;"	v
+center	rogue-quest/map.py	/^    def center(self):$/;"	m	class:Rectangle
+center	rogue-quest/tut_full.py	/^    def center(self):$/;"	m	class:Rect
+chartreuse	rogue-quest/libtcodpy.py	/^chartreuse=Color(127,255,0)$/;"	v
+check_level_up	rogue-quest/tut_full.py	/^def check_level_up():$/;"	f
+clear	rogue-quest/libtcodpy.py	/^    def clear(self, back_r=0, back_g=0, back_b=0, fore_r=0, fore_g=0, fore_b=0, char=' '):$/;"	m	class:ConsoleBuffer
+clear	rogue-quest/object.py	/^    def clear(self):$/;"	m	class:Object
+clear	rogue-quest/tut_full.py	/^    def clear(self):$/;"	m	class:Object
+closest_monster	rogue-quest/tut_full.py	/^def closest_monster(max_range):$/;"	f
+color_dark_ground	rogue-quest/tut_full.py	/^color_dark_ground = libtcod.Color(50, 50, 150)$/;"	v
+color_dark_wall	rogue-quest/tut_full.py	/^color_dark_wall = libtcod.Color(0, 0, 100)$/;"	v
+color_gen_map	rogue-quest/libtcodpy.py	/^def color_gen_map(colors, indexes):$/;"	f
+color_get_hsv	rogue-quest/libtcodpy.py	/^def color_get_hsv(c):$/;"	f
+color_lerp	rogue-quest/libtcodpy.py	/^def color_lerp(c1, c2, a):$/;"	f
+color_light_ground	rogue-quest/tut_full.py	/^color_light_ground = libtcod.Color(200, 180, 50)$/;"	v
+color_light_wall	rogue-quest/tut_full.py	/^color_light_wall = libtcod.Color(130, 110, 50)$/;"	v
+color_scale_HSV	rogue-quest/libtcodpy.py	/^def color_scale_HSV(c, scoef, vcoef) :$/;"	f
+color_set_hsv	rogue-quest/libtcodpy.py	/^def color_set_hsv(c, h, s, v):$/;"	f
+con	rogue-quest/external.py	/^con = tcod.console_new( SCREEN_WIDTH, SCREEN_HEIGHT )$/;"	v
+con	rogue-quest/tut_full.py	/^con = libtcod.console_new(MAP_WIDTH, MAP_HEIGHT)$/;"	v
+console_blit	rogue-quest/libtcodpy.py	/^def console_blit(src, x, y, w, h, dst, xdst, ydst, ffade=1.0,bfade=1.0):$/;"	f
+console_check_for_keypress	rogue-quest/libtcodpy.py	/^def console_check_for_keypress(flags=KEY_RELEASED):$/;"	f
+console_clear	rogue-quest/libtcodpy.py	/^def console_clear(con):$/;"	f
+console_credits	rogue-quest/libtcodpy.py	/^def console_credits():$/;"	f
+console_credits_render	rogue-quest/libtcodpy.py	/^def console_credits_render(x, y, alpha):$/;"	f
+console_credits_reset	rogue-quest/libtcodpy.py	/^def console_credits_reset():$/;"	f
+console_delete	rogue-quest/libtcodpy.py	/^def console_delete(con):$/;"	f
+console_disable_keyboard_repeat	rogue-quest/libtcodpy.py	/^def console_disable_keyboard_repeat():$/;"	f
+console_fill_background	rogue-quest/libtcodpy.py	/^def console_fill_background(con,r,g,b) :$/;"	f
+console_fill_char	rogue-quest/libtcodpy.py	/^def console_fill_char(con,arr) :$/;"	f
+console_fill_foreground	rogue-quest/libtcodpy.py	/^def console_fill_foreground(con,r,g,b) :$/;"	f
+console_flush	rogue-quest/libtcodpy.py	/^def console_flush():$/;"	f
+console_from_file	rogue-quest/libtcodpy.py	/^def console_from_file(filename):$/;"	f
+console_get_alignment	rogue-quest/libtcodpy.py	/^def console_get_alignment(con):$/;"	f
+console_get_background_flag	rogue-quest/libtcodpy.py	/^def console_get_background_flag(con):$/;"	f
+console_get_char	rogue-quest/libtcodpy.py	/^def console_get_char(con, x, y):$/;"	f
+console_get_char_background	rogue-quest/libtcodpy.py	/^def console_get_char_background(con, x, y):$/;"	f
+console_get_char_foreground	rogue-quest/libtcodpy.py	/^def console_get_char_foreground(con, x, y):$/;"	f
+console_get_default_background	rogue-quest/libtcodpy.py	/^def console_get_default_background(con):$/;"	f
+console_get_default_foreground	rogue-quest/libtcodpy.py	/^def console_get_default_foreground(con):$/;"	f
+console_get_fade	rogue-quest/libtcodpy.py	/^def console_get_fade():$/;"	f
+console_get_fading_color	rogue-quest/libtcodpy.py	/^def console_get_fading_color():$/;"	f
+console_get_height	rogue-quest/libtcodpy.py	/^def console_get_height(con):$/;"	f
+console_get_height_rect	rogue-quest/libtcodpy.py	/^def console_get_height_rect(con, x, y, w, h, fmt):$/;"	f
+console_get_width	rogue-quest/libtcodpy.py	/^def console_get_width(con):$/;"	f
+console_hline	rogue-quest/libtcodpy.py	/^def console_hline(con, x, y, l, flag=BKGND_DEFAULT):$/;"	f
+console_init_root	rogue-quest/libtcodpy.py	/^def console_init_root(w, h, title, fullscreen=False, renderer=RENDERER_SDL):$/;"	f
+console_is_fullscreen	rogue-quest/libtcodpy.py	/^def console_is_fullscreen():$/;"	f
+console_is_key_pressed	rogue-quest/libtcodpy.py	/^def console_is_key_pressed(key):$/;"	f
+console_is_window_closed	rogue-quest/libtcodpy.py	/^def console_is_window_closed():$/;"	f
+console_load_apf	rogue-quest/libtcodpy.py	/^def console_load_apf(con, filename) :$/;"	f
+console_load_asc	rogue-quest/libtcodpy.py	/^def console_load_asc(con, filename) :$/;"	f
+console_map_ascii_code_to_font	rogue-quest/libtcodpy.py	/^def console_map_ascii_code_to_font(asciiCode, fontCharX, fontCharY):$/;"	f
+console_map_ascii_codes_to_font	rogue-quest/libtcodpy.py	/^def console_map_ascii_codes_to_font(firstAsciiCode, nbCodes, fontCharX,$/;"	f
+console_map_string_to_font	rogue-quest/libtcodpy.py	/^def console_map_string_to_font(s, fontCharX, fontCharY):$/;"	f
+console_new	rogue-quest/libtcodpy.py	/^def console_new(w, h):$/;"	f
+console_print	rogue-quest/libtcodpy.py	/^def console_print(con, x, y, fmt):$/;"	f
+console_print_ex	rogue-quest/libtcodpy.py	/^def console_print_ex(con, x, y, flag, alignment, fmt):$/;"	f
+console_print_frame	rogue-quest/libtcodpy.py	/^def console_print_frame(con, x, y, w, h, clear=True, flag=BKGND_DEFAULT, fmt=0):$/;"	f
+console_print_rect	rogue-quest/libtcodpy.py	/^def console_print_rect(con, x, y, w, h, fmt):$/;"	f
+console_print_rect_ex	rogue-quest/libtcodpy.py	/^def console_print_rect_ex(con, x, y, w, h, flag, alignment, fmt):$/;"	f
+console_put_char	rogue-quest/libtcodpy.py	/^def console_put_char(con, x, y, c, flag=BKGND_DEFAULT):$/;"	f
+console_put_char_ex	rogue-quest/libtcodpy.py	/^def console_put_char_ex(con, x, y, c, fore, back):$/;"	f
+console_rect	rogue-quest/libtcodpy.py	/^def console_rect(con, x, y, w, h, clr, flag=BKGND_DEFAULT):$/;"	f
+console_save_apf	rogue-quest/libtcodpy.py	/^def console_save_apf(con, filename) :$/;"	f
+console_save_asc	rogue-quest/libtcodpy.py	/^def console_save_asc(con, filename) :$/;"	f
+console_set_alignment	rogue-quest/libtcodpy.py	/^def console_set_alignment(con, alignment):$/;"	f
+console_set_background_flag	rogue-quest/libtcodpy.py	/^def console_set_background_flag(con, flag):$/;"	f
+console_set_char	rogue-quest/libtcodpy.py	/^def console_set_char(con, x, y, c):$/;"	f
+console_set_char_background	rogue-quest/libtcodpy.py	/^def console_set_char_background(con, x, y, col, flag=BKGND_SET):$/;"	f
+console_set_char_foreground	rogue-quest/libtcodpy.py	/^def console_set_char_foreground(con, x, y, col):$/;"	f
+console_set_color_control	rogue-quest/libtcodpy.py	/^def console_set_color_control(con,fore,back) :$/;"	f
+console_set_custom_font	rogue-quest/libtcodpy.py	/^def console_set_custom_font(fontFile, flags=FONT_LAYOUT_ASCII_INCOL, nb_char_horiz=0, nb_char_vertic=0):$/;"	f
+console_set_default_background	rogue-quest/libtcodpy.py	/^def console_set_default_background(con, col):$/;"	f
+console_set_default_foreground	rogue-quest/libtcodpy.py	/^def console_set_default_foreground(con, col):$/;"	f
+console_set_fade	rogue-quest/libtcodpy.py	/^def console_set_fade(fade, fadingColor):$/;"	f
+console_set_fullscreen	rogue-quest/libtcodpy.py	/^def console_set_fullscreen(fullscreen):$/;"	f
+console_set_key_color	rogue-quest/libtcodpy.py	/^def console_set_key_color(con, col):$/;"	f
+console_set_keyboard_repeat	rogue-quest/libtcodpy.py	/^def console_set_keyboard_repeat(initial_delay, interval):$/;"	f
+console_set_window_title	rogue-quest/libtcodpy.py	/^def console_set_window_title(title):$/;"	f
+console_vline	rogue-quest/libtcodpy.py	/^def console_vline(con, x, y, l, flag=BKGND_DEFAULT):$/;"	f
+console_wait_for_keypress	rogue-quest/libtcodpy.py	/^def console_wait_for_keypress(flush):$/;"	f
+copper	rogue-quest/libtcodpy.py	/^copper=Color(197,136,124)$/;"	v
+copy	rogue-quest/libtcodpy.py	/^    def copy(self):$/;"	m	class:ConsoleBuffer
+create_h_tunnel	rogue-quest/map.py	/^    def create_h_tunnel(self, x1, x2, y):$/;"	m	class:Map
+create_h_tunnel	rogue-quest/tut_full.py	/^def create_h_tunnel(x1, x2, y):$/;"	f
+create_room	rogue-quest/map.py	/^    def create_room(self, room):$/;"	m	class:Map
+create_room	rogue-quest/tut_full.py	/^def create_room(room):$/;"	f
+create_v_tunnel	rogue-quest/map.py	/^    def create_v_tunnel(self, y1, y2, x):$/;"	m	class:Map
+create_v_tunnel	rogue-quest/tut_full.py	/^def create_v_tunnel(y1, y2, x):$/;"	f
+crimson	rogue-quest/libtcodpy.py	/^crimson=Color(255,0,63)$/;"	v
+cyan	rogue-quest/libtcodpy.py	/^cyan=Color(0,255,255)$/;"	v
+dark_amber	rogue-quest/libtcodpy.py	/^dark_amber=Color(191,143,0)$/;"	v
+dark_azure	rogue-quest/libtcodpy.py	/^dark_azure=Color(0,95,191)$/;"	v
+dark_blue	rogue-quest/libtcodpy.py	/^dark_blue=Color(0,0,191)$/;"	v
+dark_chartreuse	rogue-quest/libtcodpy.py	/^dark_chartreuse=Color(95,191,0)$/;"	v
+dark_crimson	rogue-quest/libtcodpy.py	/^dark_crimson=Color(191,0,47)$/;"	v
+dark_cyan	rogue-quest/libtcodpy.py	/^dark_cyan=Color(0,191,191)$/;"	v
+dark_flame	rogue-quest/libtcodpy.py	/^dark_flame=Color(191,47,0)$/;"	v
+dark_fuchsia	rogue-quest/libtcodpy.py	/^dark_fuchsia=Color(191,0,191)$/;"	v
+dark_gray	rogue-quest/libtcodpy.py	/^dark_gray=Color(95,95,95)$/;"	v
+dark_green	rogue-quest/libtcodpy.py	/^dark_green=Color(0,191,0)$/;"	v
+dark_grey	rogue-quest/libtcodpy.py	/^dark_grey=Color(95,95,95)$/;"	v
+dark_han	rogue-quest/libtcodpy.py	/^dark_han=Color(47,0,191)$/;"	v
+dark_lime	rogue-quest/libtcodpy.py	/^dark_lime=Color(143,191,0)$/;"	v
+dark_magenta	rogue-quest/libtcodpy.py	/^dark_magenta=Color(191,0,143)$/;"	v
+dark_orange	rogue-quest/libtcodpy.py	/^dark_orange=Color(191,95,0)$/;"	v
+dark_pink	rogue-quest/libtcodpy.py	/^dark_pink=Color(191,0,95)$/;"	v
+dark_purple	rogue-quest/libtcodpy.py	/^dark_purple=Color(143,0,191)$/;"	v
+dark_red	rogue-quest/libtcodpy.py	/^dark_red=Color(191,0,0)$/;"	v
+dark_sea	rogue-quest/libtcodpy.py	/^dark_sea=Color(0,191,95)$/;"	v
+dark_sepia	rogue-quest/libtcodpy.py	/^dark_sepia=Color(94,75,47)$/;"	v
+dark_sky	rogue-quest/libtcodpy.py	/^dark_sky=Color(0,143,191)$/;"	v
+dark_turquoise	rogue-quest/libtcodpy.py	/^dark_turquoise=Color(0,191,143)$/;"	v
+dark_violet	rogue-quest/libtcodpy.py	/^dark_violet=Color(95,0,191)$/;"	v
+dark_yellow	rogue-quest/libtcodpy.py	/^dark_yellow=Color(191,191,0)$/;"	v
+darker_amber	rogue-quest/libtcodpy.py	/^darker_amber=Color(127,95,0)$/;"	v
+darker_azure	rogue-quest/libtcodpy.py	/^darker_azure=Color(0,63,127)$/;"	v
+darker_blue	rogue-quest/libtcodpy.py	/^darker_blue=Color(0,0,127)$/;"	v
+darker_chartreuse	rogue-quest/libtcodpy.py	/^darker_chartreuse=Color(63,127,0)$/;"	v
+darker_crimson	rogue-quest/libtcodpy.py	/^darker_crimson=Color(127,0,31)$/;"	v
+darker_cyan	rogue-quest/libtcodpy.py	/^darker_cyan=Color(0,127,127)$/;"	v
+darker_flame	rogue-quest/libtcodpy.py	/^darker_flame=Color(127,31,0)$/;"	v
+darker_fuchsia	rogue-quest/libtcodpy.py	/^darker_fuchsia=Color(127,0,127)$/;"	v
+darker_gray	rogue-quest/libtcodpy.py	/^darker_gray=Color(63,63,63)$/;"	v
+darker_green	rogue-quest/libtcodpy.py	/^darker_green=Color(0,127,0)$/;"	v
+darker_grey	rogue-quest/libtcodpy.py	/^darker_grey=Color(63,63,63)$/;"	v
+darker_han	rogue-quest/libtcodpy.py	/^darker_han=Color(31,0,127)$/;"	v
+darker_lime	rogue-quest/libtcodpy.py	/^darker_lime=Color(95,127,0)$/;"	v
+darker_magenta	rogue-quest/libtcodpy.py	/^darker_magenta=Color(127,0,95)$/;"	v
+darker_orange	rogue-quest/libtcodpy.py	/^darker_orange=Color(127,63,0)$/;"	v
+darker_pink	rogue-quest/libtcodpy.py	/^darker_pink=Color(127,0,63)$/;"	v
+darker_purple	rogue-quest/libtcodpy.py	/^darker_purple=Color(95,0,127)$/;"	v
+darker_red	rogue-quest/libtcodpy.py	/^darker_red=Color(127,0,0)$/;"	v
+darker_sea	rogue-quest/libtcodpy.py	/^darker_sea=Color(0,127,63)$/;"	v
+darker_sepia	rogue-quest/libtcodpy.py	/^darker_sepia=Color(63,50,31)$/;"	v
+darker_sky	rogue-quest/libtcodpy.py	/^darker_sky=Color(0,95,127)$/;"	v
+darker_turquoise	rogue-quest/libtcodpy.py	/^darker_turquoise=Color(0,127,95)$/;"	v
+darker_violet	rogue-quest/libtcodpy.py	/^darker_violet=Color(63,0,127)$/;"	v
+darker_yellow	rogue-quest/libtcodpy.py	/^darker_yellow=Color(127,127,0)$/;"	v
+darkest_amber	rogue-quest/libtcodpy.py	/^darkest_amber=Color(63,47,0)$/;"	v
+darkest_azure	rogue-quest/libtcodpy.py	/^darkest_azure=Color(0,31,63)$/;"	v
+darkest_blue	rogue-quest/libtcodpy.py	/^darkest_blue=Color(0,0,63)$/;"	v
+darkest_chartreuse	rogue-quest/libtcodpy.py	/^darkest_chartreuse=Color(31,63,0)$/;"	v
+darkest_crimson	rogue-quest/libtcodpy.py	/^darkest_crimson=Color(63,0,15)$/;"	v
+darkest_cyan	rogue-quest/libtcodpy.py	/^darkest_cyan=Color(0,63,63)$/;"	v
+darkest_flame	rogue-quest/libtcodpy.py	/^darkest_flame=Color(63,15,0)$/;"	v
+darkest_fuchsia	rogue-quest/libtcodpy.py	/^darkest_fuchsia=Color(63,0,63)$/;"	v
+darkest_gray	rogue-quest/libtcodpy.py	/^darkest_gray=Color(31,31,31)$/;"	v
+darkest_green	rogue-quest/libtcodpy.py	/^darkest_green=Color(0,63,0)$/;"	v
+darkest_grey	rogue-quest/libtcodpy.py	/^darkest_grey=Color(31,31,31)$/;"	v
+darkest_han	rogue-quest/libtcodpy.py	/^darkest_han=Color(15,0,63)$/;"	v
+darkest_lime	rogue-quest/libtcodpy.py	/^darkest_lime=Color(47,63,0)$/;"	v
+darkest_magenta	rogue-quest/libtcodpy.py	/^darkest_magenta=Color(63,0,47)$/;"	v
+darkest_orange	rogue-quest/libtcodpy.py	/^darkest_orange=Color(63,31,0)$/;"	v
+darkest_pink	rogue-quest/libtcodpy.py	/^darkest_pink=Color(63,0,31)$/;"	v
+darkest_purple	rogue-quest/libtcodpy.py	/^darkest_purple=Color(47,0,63)$/;"	v
+darkest_red	rogue-quest/libtcodpy.py	/^darkest_red=Color(63,0,0)$/;"	v
+darkest_sea	rogue-quest/libtcodpy.py	/^darkest_sea=Color(0,63,31)$/;"	v
+darkest_sepia	rogue-quest/libtcodpy.py	/^darkest_sepia=Color(31,24,15)$/;"	v
+darkest_sky	rogue-quest/libtcodpy.py	/^darkest_sky=Color(0,47,63)$/;"	v
+darkest_turquoise	rogue-quest/libtcodpy.py	/^darkest_turquoise=Color(0,63,47)$/;"	v
+darkest_violet	rogue-quest/libtcodpy.py	/^darkest_violet=Color(31,0,63)$/;"	v
+darkest_yellow	rogue-quest/libtcodpy.py	/^darkest_yellow=Color(63,63,0)$/;"	v
+defense	rogue-quest/tut_full.py	/^    def defense(self):  #return actual defense, by summing up the bonuses from all equipped items$/;"	m	class:Fighter
+dequip	rogue-quest/tut_full.py	/^    def dequip(self):$/;"	m	class:Equipment
+desaturated_amber	rogue-quest/libtcodpy.py	/^desaturated_amber=Color(127,111,63)$/;"	v
+desaturated_azure	rogue-quest/libtcodpy.py	/^desaturated_azure=Color(63,95,127)$/;"	v
+desaturated_blue	rogue-quest/libtcodpy.py	/^desaturated_blue=Color(63,63,127)$/;"	v
+desaturated_chartreuse	rogue-quest/libtcodpy.py	/^desaturated_chartreuse=Color(95,127,63)$/;"	v
+desaturated_crimson	rogue-quest/libtcodpy.py	/^desaturated_crimson=Color(127,63,79)$/;"	v
+desaturated_cyan	rogue-quest/libtcodpy.py	/^desaturated_cyan=Color(63,127,127)$/;"	v
+desaturated_flame	rogue-quest/libtcodpy.py	/^desaturated_flame=Color(127,79,63)$/;"	v
+desaturated_fuchsia	rogue-quest/libtcodpy.py	/^desaturated_fuchsia=Color(127,63,127)$/;"	v
+desaturated_green	rogue-quest/libtcodpy.py	/^desaturated_green=Color(63,127,63)$/;"	v
+desaturated_han	rogue-quest/libtcodpy.py	/^desaturated_han=Color(79,63,127)$/;"	v
+desaturated_lime	rogue-quest/libtcodpy.py	/^desaturated_lime=Color(111,127,63)$/;"	v
+desaturated_magenta	rogue-quest/libtcodpy.py	/^desaturated_magenta=Color(127,63,111)$/;"	v
+desaturated_orange	rogue-quest/libtcodpy.py	/^desaturated_orange=Color(127,95,63)$/;"	v
+desaturated_pink	rogue-quest/libtcodpy.py	/^desaturated_pink=Color(127,63,95)$/;"	v
+desaturated_purple	rogue-quest/libtcodpy.py	/^desaturated_purple=Color(111,63,127)$/;"	v
+desaturated_red	rogue-quest/libtcodpy.py	/^desaturated_red=Color(127,63,63)$/;"	v
+desaturated_sea	rogue-quest/libtcodpy.py	/^desaturated_sea=Color(63,127,95)$/;"	v
+desaturated_sky	rogue-quest/libtcodpy.py	/^desaturated_sky=Color(63,111,127)$/;"	v
+desaturated_turquoise	rogue-quest/libtcodpy.py	/^desaturated_turquoise=Color(63,127,111)$/;"	v
+desaturated_violet	rogue-quest/libtcodpy.py	/^desaturated_violet=Color(95,63,127)$/;"	v
+desaturated_yellow	rogue-quest/libtcodpy.py	/^desaturated_yellow=Color(127,127,63)$/;"	v
+dijkstra_compute	rogue-quest/libtcodpy.py	/^def dijkstra_compute(p, ox, oy):$/;"	f
+dijkstra_delete	rogue-quest/libtcodpy.py	/^def dijkstra_delete(p):$/;"	f
+dijkstra_get	rogue-quest/libtcodpy.py	/^def dijkstra_get(p, idx):$/;"	f
+dijkstra_get_distance	rogue-quest/libtcodpy.py	/^def dijkstra_get_distance(p, x, y):$/;"	f
+dijkstra_is_empty	rogue-quest/libtcodpy.py	/^def dijkstra_is_empty(p):$/;"	f
+dijkstra_new	rogue-quest/libtcodpy.py	/^def dijkstra_new(m, dcost=1.41):$/;"	f
+dijkstra_new_using_function	rogue-quest/libtcodpy.py	/^def dijkstra_new_using_function(w, h, func, userdata=0, dcost=1.41):$/;"	f
+dijkstra_path_set	rogue-quest/libtcodpy.py	/^def dijkstra_path_set(p, x, y):$/;"	f
+dijkstra_path_walk	rogue-quest/libtcodpy.py	/^def dijkstra_path_walk(p):$/;"	f
+dijkstra_reverse	rogue-quest/libtcodpy.py	/^def dijkstra_reverse(p):$/;"	f
+dijkstra_size	rogue-quest/libtcodpy.py	/^def dijkstra_size(p):$/;"	f
+distance	rogue-quest/tut_full.py	/^    def distance(self, x, y):$/;"	m	class:Object
+distance_to	rogue-quest/tut_full.py	/^    def distance_to(self, other):$/;"	m	class:Object
+draw	rogue-quest/object.py	/^    def draw(self):$/;"	m	class:Object
+draw	rogue-quest/tut_full.py	/^    def draw(self):$/;"	m	class:Object
+drop	rogue-quest/tut_full.py	/^    def drop(self):$/;"	m	class:Item
+equip	rogue-quest/tut_full.py	/^    def equip(self):$/;"	m	class:Equipment
+flame	rogue-quest/libtcodpy.py	/^flame=Color(255,63,0)$/;"	v
+from_dungeon_level	rogue-quest/tut_full.py	/^def from_dungeon_level(table):$/;"	f
+fuchsia	rogue-quest/libtcodpy.py	/^fuchsia=Color(255,0,255)$/;"	v
+get_all_equipped	rogue-quest/tut_full.py	/^def get_all_equipped(obj):  #returns a list of equipped items$/;"	f
+get_equipped_in_slot	rogue-quest/tut_full.py	/^def get_equipped_in_slot(slot):  #returns the equipment in a slot, or None if it's empty$/;"	f
+get_names_under_mouse	rogue-quest/tut_full.py	/^def get_names_under_mouse():$/;"	f
+geth	rogue-quest/libtcodpy.py	/^    def geth(self):$/;"	m	class:Bsp
+geth	rogue-quest/libtcodpy.py	/^    def geth(self):$/;"	m	class:HeightMap
+gethor	rogue-quest/libtcodpy.py	/^    def gethor(self):$/;"	m	class:Bsp
+getlev	rogue-quest/libtcodpy.py	/^    def getlev(self):$/;"	m	class:Bsp
+getpos	rogue-quest/libtcodpy.py	/^    def getpos(self):$/;"	m	class:Bsp
+getw	rogue-quest/libtcodpy.py	/^    def getw(self):$/;"	m	class:Bsp
+getw	rogue-quest/libtcodpy.py	/^    def getw(self):$/;"	m	class:HeightMap
+getx	rogue-quest/libtcodpy.py	/^    def getx(self):$/;"	m	class:Bsp
+gety	rogue-quest/libtcodpy.py	/^    def gety(self):$/;"	m	class:Bsp
+gold	rogue-quest/libtcodpy.py	/^gold=Color(229,191,0)$/;"	v
+gray	rogue-quest/libtcodpy.py	/^gray=Color(127,127,127)$/;"	v
+green	rogue-quest/libtcodpy.py	/^green=Color(0,255,0)$/;"	v
+grey	rogue-quest/libtcodpy.py	/^grey=Color(127,127,127)$/;"	v
+h	rogue-quest/libtcodpy.py	/^    h = property(geth, seth)$/;"	v	class:Bsp
+h	rogue-quest/libtcodpy.py	/^    h = property(geth, seth)$/;"	v	class:HeightMap
+han	rogue-quest/libtcodpy.py	/^han=Color(63,0,255)$/;"	v
+handle_keys	rogue-quest/tut_full.py	/^def handle_keys():$/;"	f
+handle_keys	rogue-quest/tutorial.py	/^def handle_keys(game_map, player):$/;"	f
+heal	rogue-quest/tut_full.py	/^    def heal(self, amount):$/;"	m	class:Fighter
+heightmap_add	rogue-quest/libtcodpy.py	/^def heightmap_add(hm, value):$/;"	f
+heightmap_add_fbm	rogue-quest/libtcodpy.py	/^def heightmap_add_fbm(hm, noise, mulx, muly, addx, addy, octaves, delta, scale):$/;"	f
+heightmap_add_hill	rogue-quest/libtcodpy.py	/^def heightmap_add_hill(hm, x, y, radius, height):$/;"	f
+heightmap_add_hm	rogue-quest/libtcodpy.py	/^def heightmap_add_hm(hm1, hm2, hm3):$/;"	f
+heightmap_add_voronoi	rogue-quest/libtcodpy.py	/^def heightmap_add_voronoi(hm, nbPoints, nbCoef, coef, rnd=0):$/;"	f
+heightmap_clamp	rogue-quest/libtcodpy.py	/^def heightmap_clamp(hm, mi, ma):$/;"	f
+heightmap_clear	rogue-quest/libtcodpy.py	/^def heightmap_clear(hm):$/;"	f
+heightmap_copy	rogue-quest/libtcodpy.py	/^def heightmap_copy(hm1, hm2):$/;"	f
+heightmap_count_cells	rogue-quest/libtcodpy.py	/^def heightmap_count_cells(hm, mi, ma):$/;"	f
+heightmap_delete	rogue-quest/libtcodpy.py	/^def heightmap_delete(hm):$/;"	f
+heightmap_dig_bezier	rogue-quest/libtcodpy.py	/^def heightmap_dig_bezier(hm, px, py, startRadius, startDepth, endRadius,$/;"	f
+heightmap_dig_hill	rogue-quest/libtcodpy.py	/^def heightmap_dig_hill(hm, x, y, radius, height):$/;"	f
+heightmap_get_interpolated_value	rogue-quest/libtcodpy.py	/^def heightmap_get_interpolated_value(hm, x, y):$/;"	f
+heightmap_get_minmax	rogue-quest/libtcodpy.py	/^def heightmap_get_minmax(hm):$/;"	f
+heightmap_get_normal	rogue-quest/libtcodpy.py	/^def heightmap_get_normal(hm, x, y, waterLevel):$/;"	f
+heightmap_get_slope	rogue-quest/libtcodpy.py	/^def heightmap_get_slope(hm, x, y):$/;"	f
+heightmap_get_value	rogue-quest/libtcodpy.py	/^def heightmap_get_value(hm, x, y):$/;"	f
+heightmap_has_land_on_border	rogue-quest/libtcodpy.py	/^def heightmap_has_land_on_border(hm, waterlevel):$/;"	f
+heightmap_kernel_transform	rogue-quest/libtcodpy.py	/^def heightmap_kernel_transform(hm, kernelsize, dx, dy, weight, minLevel,$/;"	f
+heightmap_lerp_hm	rogue-quest/libtcodpy.py	/^def heightmap_lerp_hm(hm1, hm2, hm3, coef):$/;"	f
+heightmap_multiply_hm	rogue-quest/libtcodpy.py	/^def heightmap_multiply_hm(hm1, hm2, hm3):$/;"	f
+heightmap_new	rogue-quest/libtcodpy.py	/^def heightmap_new(w, h):$/;"	f
+heightmap_normalize	rogue-quest/libtcodpy.py	/^def heightmap_normalize(hm,  mi=0.0, ma=1.0):$/;"	f
+heightmap_rain_erosion	rogue-quest/libtcodpy.py	/^def heightmap_rain_erosion(hm, nbDrops, erosionCoef, sedimentationCoef, rnd=0):$/;"	f
+heightmap_scale	rogue-quest/libtcodpy.py	/^def heightmap_scale(hm, value):$/;"	f
+heightmap_scale_fbm	rogue-quest/libtcodpy.py	/^def heightmap_scale_fbm(hm, noise, mulx, muly, addx, addy, octaves, delta,$/;"	f
+heightmap_set_value	rogue-quest/libtcodpy.py	/^def heightmap_set_value(hm, x, y, value):$/;"	f
+horizontal	rogue-quest/libtcodpy.py	/^    horizontal = property(gethor, sethor)$/;"	v	class:Bsp
+image_blit	rogue-quest/libtcodpy.py	/^def image_blit(image, console, x, y, bkgnd_flag, scalex, scaley, angle):$/;"	f
+image_blit_2x	rogue-quest/libtcodpy.py	/^def image_blit_2x(image, console, dx, dy, sx=0, sy=0, w=-1, h=-1):$/;"	f
+image_blit_rect	rogue-quest/libtcodpy.py	/^def image_blit_rect(image, console, x, y, w, h, bkgnd_flag):$/;"	f
+image_clear	rogue-quest/libtcodpy.py	/^def image_clear(image,col) :$/;"	f
+image_delete	rogue-quest/libtcodpy.py	/^def image_delete(image):$/;"	f
+image_from_console	rogue-quest/libtcodpy.py	/^def image_from_console(console):$/;"	f
+image_get_alpha	rogue-quest/libtcodpy.py	/^def image_get_alpha(image,x,y) :$/;"	f
+image_get_mipmap_pixel	rogue-quest/libtcodpy.py	/^def image_get_mipmap_pixel(image, x0, y0, x1, y1):$/;"	f
+image_get_pixel	rogue-quest/libtcodpy.py	/^def image_get_pixel(image, x, y):$/;"	f
+image_get_size	rogue-quest/libtcodpy.py	/^def image_get_size(image):$/;"	f
+image_hflip	rogue-quest/libtcodpy.py	/^def image_hflip(image) :$/;"	f
+image_invert	rogue-quest/libtcodpy.py	/^def image_invert(image) :$/;"	f
+image_is_pixel_transparent	rogue-quest/libtcodpy.py	/^def image_is_pixel_transparent(image,x,y) :$/;"	f
+image_load	rogue-quest/libtcodpy.py	/^def image_load(filename):$/;"	f
+image_new	rogue-quest/libtcodpy.py	/^def image_new(width, height):$/;"	f
+image_put_pixel	rogue-quest/libtcodpy.py	/^def image_put_pixel(image, x, y, col):$/;"	f
+image_refresh_console	rogue-quest/libtcodpy.py	/^def image_refresh_console(image, console):$/;"	f
+image_rotate90	rogue-quest/libtcodpy.py	/^def image_rotate90(image, num=1) :$/;"	f
+image_save	rogue-quest/libtcodpy.py	/^def image_save(image, filename):$/;"	f
+image_scale	rogue-quest/libtcodpy.py	/^def image_scale(image, neww, newh) :$/;"	f
+image_set_key_color	rogue-quest/libtcodpy.py	/^def image_set_key_color(image,col) :$/;"	f
+image_vflip	rogue-quest/libtcodpy.py	/^def image_vflip(image) :$/;"	f
+initialize_fov	rogue-quest/tut_full.py	/^def initialize_fov():$/;"	f
+intersect	rogue-quest/tut_full.py	/^    def intersect(self, other):$/;"	m	class:Rect
+inventory_menu	rogue-quest/tut_full.py	/^def inventory_menu(header):$/;"	f
+is_blocked	rogue-quest/tut_full.py	/^def is_blocked(x, y):$/;"	f
+is_blocking	rogue-quest/map.py	/^    def is_blocking(self, x, y):$/;"	m	class:Map
+is_intersecting	rogue-quest/map.py	/^    def is_intersecting(self, other):$/;"	m	class:Rectangle
+level	rogue-quest/libtcodpy.py	/^    level = property(getlev, setlev)$/;"	v	class:Bsp
+light_amber	rogue-quest/libtcodpy.py	/^light_amber=Color(255,219,114)$/;"	v
+light_azure	rogue-quest/libtcodpy.py	/^light_azure=Color(114,184,255)$/;"	v
+light_blue	rogue-quest/libtcodpy.py	/^light_blue=Color(114,114,255)$/;"	v
+light_chartreuse	rogue-quest/libtcodpy.py	/^light_chartreuse=Color(184,255,114)$/;"	v
+light_crimson	rogue-quest/libtcodpy.py	/^light_crimson=Color(255,114,149)$/;"	v
+light_cyan	rogue-quest/libtcodpy.py	/^light_cyan=Color(114,255,255)$/;"	v
+light_flame	rogue-quest/libtcodpy.py	/^light_flame=Color(255,149,114)$/;"	v
+light_fuchsia	rogue-quest/libtcodpy.py	/^light_fuchsia=Color(255,114,255)$/;"	v
+light_gray	rogue-quest/libtcodpy.py	/^light_gray=Color(159,159,159)$/;"	v
+light_green	rogue-quest/libtcodpy.py	/^light_green=Color(114,255,114)$/;"	v
+light_grey	rogue-quest/libtcodpy.py	/^light_grey=Color(159,159,159)$/;"	v
+light_han	rogue-quest/libtcodpy.py	/^light_han=Color(149,114,255)$/;"	v
+light_lime	rogue-quest/libtcodpy.py	/^light_lime=Color(219,255,114)$/;"	v
+light_magenta	rogue-quest/libtcodpy.py	/^light_magenta=Color(255,114,219)$/;"	v
+light_orange	rogue-quest/libtcodpy.py	/^light_orange=Color(255,184,114)$/;"	v
+light_pink	rogue-quest/libtcodpy.py	/^light_pink=Color(255,114,184)$/;"	v
+light_purple	rogue-quest/libtcodpy.py	/^light_purple=Color(219,114,255)$/;"	v
+light_red	rogue-quest/libtcodpy.py	/^light_red=Color(255,114,114)$/;"	v
+light_sea	rogue-quest/libtcodpy.py	/^light_sea=Color(114,255,184)$/;"	v
+light_sepia	rogue-quest/libtcodpy.py	/^light_sepia=Color(158,134,100)$/;"	v
+light_sky	rogue-quest/libtcodpy.py	/^light_sky=Color(114,219,255)$/;"	v
+light_turquoise	rogue-quest/libtcodpy.py	/^light_turquoise=Color(114,255,219)$/;"	v
+light_violet	rogue-quest/libtcodpy.py	/^light_violet=Color(184,114,255)$/;"	v
+light_yellow	rogue-quest/libtcodpy.py	/^light_yellow=Color(255,255,114)$/;"	v
+lighter_amber	rogue-quest/libtcodpy.py	/^lighter_amber=Color(255,232,165)$/;"	v
+lighter_azure	rogue-quest/libtcodpy.py	/^lighter_azure=Color(165,210,255)$/;"	v
+lighter_blue	rogue-quest/libtcodpy.py	/^lighter_blue=Color(165,165,255)$/;"	v
+lighter_chartreuse	rogue-quest/libtcodpy.py	/^lighter_chartreuse=Color(210,255,165)$/;"	v
+lighter_crimson	rogue-quest/libtcodpy.py	/^lighter_crimson=Color(255,165,188)$/;"	v
+lighter_cyan	rogue-quest/libtcodpy.py	/^lighter_cyan=Color(165,255,255)$/;"	v
+lighter_flame	rogue-quest/libtcodpy.py	/^lighter_flame=Color(255,188,165)$/;"	v
+lighter_fuchsia	rogue-quest/libtcodpy.py	/^lighter_fuchsia=Color(255,165,255)$/;"	v
+lighter_gray	rogue-quest/libtcodpy.py	/^lighter_gray=Color(191,191,191)$/;"	v
+lighter_green	rogue-quest/libtcodpy.py	/^lighter_green=Color(165,255,165)$/;"	v
+lighter_grey	rogue-quest/libtcodpy.py	/^lighter_grey=Color(191,191,191)$/;"	v
+lighter_han	rogue-quest/libtcodpy.py	/^lighter_han=Color(188,165,255)$/;"	v
+lighter_lime	rogue-quest/libtcodpy.py	/^lighter_lime=Color(232,255,165)$/;"	v
+lighter_magenta	rogue-quest/libtcodpy.py	/^lighter_magenta=Color(255,165,232)$/;"	v
+lighter_orange	rogue-quest/libtcodpy.py	/^lighter_orange=Color(255,210,165)$/;"	v
+lighter_pink	rogue-quest/libtcodpy.py	/^lighter_pink=Color(255,165,210)$/;"	v
+lighter_purple	rogue-quest/libtcodpy.py	/^lighter_purple=Color(232,165,255)$/;"	v
+lighter_red	rogue-quest/libtcodpy.py	/^lighter_red=Color(255,165,165)$/;"	v
+lighter_sea	rogue-quest/libtcodpy.py	/^lighter_sea=Color(165,255,210)$/;"	v
+lighter_sepia	rogue-quest/libtcodpy.py	/^lighter_sepia=Color(191,171,143)$/;"	v
+lighter_sky	rogue-quest/libtcodpy.py	/^lighter_sky=Color(165,232,255)$/;"	v
+lighter_turquoise	rogue-quest/libtcodpy.py	/^lighter_turquoise=Color(165,255,232)$/;"	v
+lighter_violet	rogue-quest/libtcodpy.py	/^lighter_violet=Color(210,165,255)$/;"	v
+lighter_yellow	rogue-quest/libtcodpy.py	/^lighter_yellow=Color(255,255,165)$/;"	v
+lightest_amber	rogue-quest/libtcodpy.py	/^lightest_amber=Color(255,239,191)$/;"	v
+lightest_azure	rogue-quest/libtcodpy.py	/^lightest_azure=Color(191,223,255)$/;"	v
+lightest_blue	rogue-quest/libtcodpy.py	/^lightest_blue=Color(191,191,255)$/;"	v
+lightest_chartreuse	rogue-quest/libtcodpy.py	/^lightest_chartreuse=Color(223,255,191)$/;"	v
+lightest_crimson	rogue-quest/libtcodpy.py	/^lightest_crimson=Color(255,191,207)$/;"	v
+lightest_cyan	rogue-quest/libtcodpy.py	/^lightest_cyan=Color(191,255,255)$/;"	v
+lightest_flame	rogue-quest/libtcodpy.py	/^lightest_flame=Color(255,207,191)$/;"	v
+lightest_fuchsia	rogue-quest/libtcodpy.py	/^lightest_fuchsia=Color(255,191,255)$/;"	v
+lightest_gray	rogue-quest/libtcodpy.py	/^lightest_gray=Color(223,223,223)$/;"	v
+lightest_green	rogue-quest/libtcodpy.py	/^lightest_green=Color(191,255,191)$/;"	v
+lightest_grey	rogue-quest/libtcodpy.py	/^lightest_grey=Color(223,223,223)$/;"	v
+lightest_han	rogue-quest/libtcodpy.py	/^lightest_han=Color(207,191,255)$/;"	v
+lightest_lime	rogue-quest/libtcodpy.py	/^lightest_lime=Color(239,255,191)$/;"	v
+lightest_magenta	rogue-quest/libtcodpy.py	/^lightest_magenta=Color(255,191,239)$/;"	v
+lightest_orange	rogue-quest/libtcodpy.py	/^lightest_orange=Color(255,223,191)$/;"	v
+lightest_pink	rogue-quest/libtcodpy.py	/^lightest_pink=Color(255,191,223)$/;"	v
+lightest_purple	rogue-quest/libtcodpy.py	/^lightest_purple=Color(239,191,255)$/;"	v
+lightest_red	rogue-quest/libtcodpy.py	/^lightest_red=Color(255,191,191)$/;"	v
+lightest_sea	rogue-quest/libtcodpy.py	/^lightest_sea=Color(191,255,223)$/;"	v
+lightest_sepia	rogue-quest/libtcodpy.py	/^lightest_sepia=Color(222,211,195)$/;"	v
+lightest_sky	rogue-quest/libtcodpy.py	/^lightest_sky=Color(191,239,255)$/;"	v
+lightest_turquoise	rogue-quest/libtcodpy.py	/^lightest_turquoise=Color(191,255,239)$/;"	v
+lightest_violet	rogue-quest/libtcodpy.py	/^lightest_violet=Color(223,191,255)$/;"	v
+lightest_yellow	rogue-quest/libtcodpy.py	/^lightest_yellow=Color(255,255,191)$/;"	v
+lime	rogue-quest/libtcodpy.py	/^lime=Color(191,255,0)$/;"	v
+line	rogue-quest/libtcodpy.py	/^def line(xo,yo,xd,yd,py_callback) :$/;"	f
+line_init	rogue-quest/libtcodpy.py	/^def line_init(xo, yo, xd, yd):$/;"	f
+line_iter	rogue-quest/libtcodpy.py	/^def line_iter(xo, yo, xd, yd):$/;"	f
+line_step	rogue-quest/libtcodpy.py	/^def line_step():$/;"	f
+load_game	rogue-quest/tut_full.py	/^def load_game():$/;"	f
+magenta	rogue-quest/libtcodpy.py	/^magenta=Color(255,0,191)$/;"	v
+main	rogue-quest/tutorial.py	/^def main():$/;"	f
+main_menu	rogue-quest/tut_full.py	/^def main_menu():$/;"	f
+make_map	rogue-quest/tut_full.py	/^def make_map():$/;"	f
+map_clear	rogue-quest/libtcodpy.py	/^def map_clear(m,walkable=False,transparent=False):$/;"	f
+map_compute_fov	rogue-quest/libtcodpy.py	/^def map_compute_fov(m, x, y, radius=0, light_walls=True, algo=FOV_RESTRICTIVE ):$/;"	f
+map_copy	rogue-quest/libtcodpy.py	/^def map_copy(source, dest):$/;"	f
+map_delete	rogue-quest/libtcodpy.py	/^def map_delete(m):$/;"	f
+map_get_height	rogue-quest/libtcodpy.py	/^def map_get_height(map):$/;"	f
+map_get_width	rogue-quest/libtcodpy.py	/^def map_get_width(map):$/;"	f
+map_is_in_fov	rogue-quest/libtcodpy.py	/^def map_is_in_fov(m, x, y):$/;"	f
+map_is_transparent	rogue-quest/libtcodpy.py	/^def map_is_transparent(m, x, y):$/;"	f
+map_is_walkable	rogue-quest/libtcodpy.py	/^def map_is_walkable(m, x, y):$/;"	f
+map_new	rogue-quest/libtcodpy.py	/^def map_new(w, h):$/;"	f
+map_set_properties	rogue-quest/libtcodpy.py	/^def map_set_properties(m, x, y, isTrans, isWalk):$/;"	f
+max_hp	rogue-quest/tut_full.py	/^    def max_hp(self):  #return actual max_hp, by summing up the bonuses from all equipped items$/;"	m	class:Fighter
+menu	rogue-quest/tut_full.py	/^def menu(header, options, width):$/;"	f
+message	rogue-quest/tut_full.py	/^def message(new_msg, color = libtcod.white):$/;"	f
+monster_death	rogue-quest/tut_full.py	/^def monster_death(monster):$/;"	f
+mouse_get_status	rogue-quest/libtcodpy.py	/^def mouse_get_status():$/;"	f
+mouse_is_cursor_visible	rogue-quest/libtcodpy.py	/^def mouse_is_cursor_visible():$/;"	f
+mouse_move	rogue-quest/libtcodpy.py	/^def mouse_move(x, y):$/;"	f
+mouse_show_cursor	rogue-quest/libtcodpy.py	/^def mouse_show_cursor(visible):$/;"	f
+move	rogue-quest/object.py	/^    def move(self, game_map, dx, dy):$/;"	m	class:Object
+move	rogue-quest/tut_full.py	/^    def move(self, dx, dy):$/;"	m	class:Object
+move_towards	rogue-quest/tut_full.py	/^    def move_towards(self, target_x, target_y):$/;"	m	class:Object
+msgbox	rogue-quest/tut_full.py	/^def msgbox(text, width=50):$/;"	f
+namegen_destroy	rogue-quest/libtcodpy.py	/^def namegen_destroy() :$/;"	f
+namegen_generate	rogue-quest/libtcodpy.py	/^def namegen_generate(name) :$/;"	f
+namegen_generate_custom	rogue-quest/libtcodpy.py	/^def namegen_generate_custom(name, rule) :$/;"	f
+namegen_get_sets	rogue-quest/libtcodpy.py	/^def namegen_get_sets():$/;"	f
+namegen_parse	rogue-quest/libtcodpy.py	/^def namegen_parse(filename,random=0) :$/;"	f
+new_game	rogue-quest/tut_full.py	/^def new_game():$/;"	f
+next_level	rogue-quest/tut_full.py	/^def next_level():$/;"	f
+node_converter	rogue-quest/libtcodpy.py	/^    def node_converter(cnode, data):$/;"	f	function:_bsp_traverse
+noise_delete	rogue-quest/libtcodpy.py	/^def noise_delete(n):$/;"	f
+noise_get	rogue-quest/libtcodpy.py	/^def noise_get(n, f, typ=NOISE_DEFAULT):$/;"	f
+noise_get_fbm	rogue-quest/libtcodpy.py	/^def noise_get_fbm(n, f, oc, typ=NOISE_DEFAULT):$/;"	f
+noise_get_turbulence	rogue-quest/libtcodpy.py	/^def noise_get_turbulence(n, f, oc, typ=NOISE_DEFAULT):$/;"	f
+noise_new	rogue-quest/libtcodpy.py	/^def noise_new(dim, h=NOISE_DEFAULT_HURST, l=NOISE_DEFAULT_LACUNARITY, random=0):$/;"	f
+noise_set_type	rogue-quest/libtcodpy.py	/^def noise_set_type(n, typ) :$/;"	f
+numpy_available	rogue-quest/libtcodpy.py	/^    numpy_available = False$/;"	v
+numpy_available	rogue-quest/libtcodpy.py	/^    numpy_available = True$/;"	v
+orange	rogue-quest/libtcodpy.py	/^orange=Color(255,127,0)$/;"	v
+panel	rogue-quest/tut_full.py	/^panel = libtcod.console_new(SCREEN_WIDTH, PANEL_HEIGHT)$/;"	v
+parser_delete	rogue-quest/libtcodpy.py	/^def parser_delete(parser):$/;"	f
+parser_get_bool_property	rogue-quest/libtcodpy.py	/^def parser_get_bool_property(parser, name):$/;"	f
+parser_get_char_property	rogue-quest/libtcodpy.py	/^def parser_get_char_property(parser, name):$/;"	f
+parser_get_color_property	rogue-quest/libtcodpy.py	/^def parser_get_color_property(parser, name):$/;"	f
+parser_get_dice_property	rogue-quest/libtcodpy.py	/^def parser_get_dice_property(parser, name):$/;"	f
+parser_get_float_property	rogue-quest/libtcodpy.py	/^def parser_get_float_property(parser, name):$/;"	f
+parser_get_int_property	rogue-quest/libtcodpy.py	/^def parser_get_int_property(parser, name):$/;"	f
+parser_get_list_property	rogue-quest/libtcodpy.py	/^def parser_get_list_property(parser, name, typ):$/;"	f
+parser_get_string_property	rogue-quest/libtcodpy.py	/^def parser_get_string_property(parser, name):$/;"	f
+parser_new	rogue-quest/libtcodpy.py	/^def parser_new():$/;"	f
+parser_new_struct	rogue-quest/libtcodpy.py	/^def parser_new_struct(parser, name):$/;"	f
+parser_run	rogue-quest/libtcodpy.py	/^def parser_run(parser, filename, listener=0):$/;"	f
+path_compute	rogue-quest/libtcodpy.py	/^def path_compute(p, ox, oy, dx, dy):$/;"	f
+path_delete	rogue-quest/libtcodpy.py	/^def path_delete(p):$/;"	f
+path_get	rogue-quest/libtcodpy.py	/^def path_get(p, idx):$/;"	f
+path_get_destination	rogue-quest/libtcodpy.py	/^def path_get_destination(p):$/;"	f
+path_get_origin	rogue-quest/libtcodpy.py	/^def path_get_origin(p):$/;"	f
+path_is_empty	rogue-quest/libtcodpy.py	/^def path_is_empty(p):$/;"	f
+path_new_using_function	rogue-quest/libtcodpy.py	/^def path_new_using_function(w, h, func, userdata=0, dcost=1.41):$/;"	f
+path_new_using_map	rogue-quest/libtcodpy.py	/^def path_new_using_map(m, dcost=1.41):$/;"	f
+path_reverse	rogue-quest/libtcodpy.py	/^def path_reverse(p):$/;"	f
+path_size	rogue-quest/libtcodpy.py	/^def path_size(p):$/;"	f
+path_walk	rogue-quest/libtcodpy.py	/^def path_walk(p, recompute):$/;"	f
+peach	rogue-quest/libtcodpy.py	/^peach=Color(255,159,127)$/;"	v
+pick_up	rogue-quest/tut_full.py	/^    def pick_up(self):$/;"	m	class:Item
+pink	rogue-quest/libtcodpy.py	/^pink=Color(255,0,127)$/;"	v
+place_objects	rogue-quest/tut_full.py	/^def place_objects(room):$/;"	f
+play_game	rogue-quest/tut_full.py	/^def play_game():$/;"	f
+player_death	rogue-quest/tut_full.py	/^def player_death(player):$/;"	f
+player_move_or_attack	rogue-quest/tut_full.py	/^def player_move_or_attack(dx, dy):$/;"	f
+position	rogue-quest/libtcodpy.py	/^    position = property(getpos, setpos)$/;"	v	class:Bsp
+power	rogue-quest/tut_full.py	/^    def power(self):  #return actual power, by summing up the bonuses from all equipped items$/;"	m	class:Fighter
+purple	rogue-quest/libtcodpy.py	/^purple=Color(191,0,255)$/;"	v
+random_choice	rogue-quest/tut_full.py	/^def random_choice(chances_dict):$/;"	f
+random_choice_index	rogue-quest/tut_full.py	/^def random_choice_index(chances):  #choose one option from list of chances, returning its index$/;"	f
+random_delete	rogue-quest/libtcodpy.py	/^def random_delete(rnd):$/;"	f
+random_get_double	rogue-quest/libtcodpy.py	/^def random_get_double(rnd, mi, ma):$/;"	f
+random_get_double_mean	rogue-quest/libtcodpy.py	/^def random_get_double_mean(rnd, mi, ma, mean):$/;"	f
+random_get_float	rogue-quest/libtcodpy.py	/^def random_get_float(rnd, mi, ma):$/;"	f
+random_get_float_mean	rogue-quest/libtcodpy.py	/^def random_get_float_mean(rnd, mi, ma, mean):$/;"	f
+random_get_instance	rogue-quest/libtcodpy.py	/^def random_get_instance():$/;"	f
+random_get_int	rogue-quest/libtcodpy.py	/^def random_get_int(rnd, mi, ma):$/;"	f
+random_get_int_mean	rogue-quest/libtcodpy.py	/^def random_get_int_mean(rnd, mi, ma, mean):$/;"	f
+random_new	rogue-quest/libtcodpy.py	/^def random_new(algo=RNG_CMWC):$/;"	f
+random_new_from_seed	rogue-quest/libtcodpy.py	/^def random_new_from_seed(seed, algo=RNG_CMWC):$/;"	f
+random_restore	rogue-quest/libtcodpy.py	/^def random_restore(rnd, backup):$/;"	f
+random_save	rogue-quest/libtcodpy.py	/^def random_save(rnd):$/;"	f
+random_set_distribution	rogue-quest/libtcodpy.py	/^def random_set_distribution(rnd, dist) :$/;"	f
+red	rogue-quest/libtcodpy.py	/^red=Color(255,0,0)$/;"	v
+render	rogue-quest/map.py	/^    def render(self):$/;"	m	class:Map
+render_all	rogue-quest/tut_full.py	/^def render_all():$/;"	f
+render_bar	rogue-quest/tut_full.py	/^def render_bar(x, y, total_width, name, value, maximum, bar_color, back_color):$/;"	f
+save_game	rogue-quest/tut_full.py	/^def save_game():$/;"	f
+sea	rogue-quest/libtcodpy.py	/^sea=Color(0,255,127)$/;"	v
+send_to_back	rogue-quest/tut_full.py	/^    def send_to_back(self):$/;"	m	class:Object
+sepia	rogue-quest/libtcodpy.py	/^sepia=Color(127,101,63)$/;"	v
+set	rogue-quest/libtcodpy.py	/^    def set(self, x, y, back_r, back_g, back_b, fore_r, fore_g, fore_b, char):$/;"	m	class:ConsoleBuffer
+set_back	rogue-quest/libtcodpy.py	/^    def set_back(self, x, y, r, g, b):$/;"	m	class:ConsoleBuffer
+set_blocking	rogue-quest/map.py	/^    def set_blocking(self, blocking, x, y):$/;"	m	class:Map
+set_fore	rogue-quest/libtcodpy.py	/^    def set_fore(self, x, y, r, g, b, char):$/;"	m	class:ConsoleBuffer
+set_sight	rogue-quest/map.py	/^    def set_sight(self, block_sight, x, y):$/;"	m	class:Map
+set_tile	rogue-quest/map.py	/^    def set_tile(self, blocking, block_sight, x, y):$/;"	m	class:Map
+set_tile	rogue-quest/tile.py	/^    def set_tile(self, blocking, block_sight):$/;"	m	class:Tile
+seth	rogue-quest/libtcodpy.py	/^    def seth(self, value):$/;"	m	class:Bsp
+seth	rogue-quest/libtcodpy.py	/^    def seth(self, value):$/;"	m	class:HeightMap
+sethor	rogue-quest/libtcodpy.py	/^    def sethor(self,value):$/;"	m	class:Bsp
+setlev	rogue-quest/libtcodpy.py	/^    def setlev(self,value):$/;"	m	class:Bsp
+setpos	rogue-quest/libtcodpy.py	/^    def setpos(self, value):$/;"	m	class:Bsp
+setw	rogue-quest/libtcodpy.py	/^    def setw(self, value):$/;"	m	class:Bsp
+setw	rogue-quest/libtcodpy.py	/^    def setw(self, value):$/;"	m	class:HeightMap
+setx	rogue-quest/libtcodpy.py	/^    def setx(self, value):$/;"	m	class:Bsp
+sety	rogue-quest/libtcodpy.py	/^    def sety(self, value):$/;"	m	class:Bsp
+silver	rogue-quest/libtcodpy.py	/^silver=Color(203,203,203)$/;"	v
+sky	rogue-quest/libtcodpy.py	/^sky=Color(0,191,255)$/;"	v
+struct_add_flag	rogue-quest/libtcodpy.py	/^def struct_add_flag(struct, name):$/;"	f
+struct_add_list_property	rogue-quest/libtcodpy.py	/^def struct_add_list_property(struct, name, typ, mandatory):$/;"	f
+struct_add_property	rogue-quest/libtcodpy.py	/^def struct_add_property(struct, name, typ, mandatory):$/;"	f
+struct_add_structure	rogue-quest/libtcodpy.py	/^def struct_add_structure(struct, sub_struct):$/;"	f
+struct_add_value_list	rogue-quest/libtcodpy.py	/^def struct_add_value_list(struct, name, value_list, mandatory):$/;"	f
+struct_get_name	rogue-quest/libtcodpy.py	/^def struct_get_name(struct):$/;"	f
+struct_get_type	rogue-quest/libtcodpy.py	/^def struct_get_type(struct, name):$/;"	f
+struct_is_mandatory	rogue-quest/libtcodpy.py	/^def struct_is_mandatory(struct, name):$/;"	f
+sys_check_for_event	rogue-quest/libtcodpy.py	/^def sys_check_for_event(mask,k,m) :$/;"	f
+sys_elapsed_milli	rogue-quest/libtcodpy.py	/^def sys_elapsed_milli():$/;"	f
+sys_elapsed_seconds	rogue-quest/libtcodpy.py	/^def sys_elapsed_seconds():$/;"	f
+sys_force_fullscreen_resolution	rogue-quest/libtcodpy.py	/^def sys_force_fullscreen_resolution(width, height):$/;"	f
+sys_get_char_size	rogue-quest/libtcodpy.py	/^def sys_get_char_size():$/;"	f
+sys_get_current_resolution	rogue-quest/libtcodpy.py	/^def sys_get_current_resolution():$/;"	f
+sys_get_fps	rogue-quest/libtcodpy.py	/^def sys_get_fps():$/;"	f
+sys_get_last_frame_length	rogue-quest/libtcodpy.py	/^def sys_get_last_frame_length():$/;"	f
+sys_get_renderer	rogue-quest/libtcodpy.py	/^def sys_get_renderer():$/;"	f
+sys_register_SDL_renderer	rogue-quest/libtcodpy.py	/^def sys_register_SDL_renderer(callback):$/;"	f
+sys_save_screenshot	rogue-quest/libtcodpy.py	/^def sys_save_screenshot(name=0):$/;"	f
+sys_set_fps	rogue-quest/libtcodpy.py	/^def sys_set_fps(fps):$/;"	f
+sys_set_renderer	rogue-quest/libtcodpy.py	/^def sys_set_renderer(renderer):$/;"	f
+sys_sleep_milli	rogue-quest/libtcodpy.py	/^def sys_sleep_milli(val):$/;"	f
+sys_update_char	rogue-quest/libtcodpy.py	/^def sys_update_char(asciiCode, fontx, fonty, img, x, y) :$/;"	f
+sys_wait_for_event	rogue-quest/libtcodpy.py	/^def sys_wait_for_event(mask,k,m,flush) :$/;"	f
+take_damage	rogue-quest/tut_full.py	/^    def take_damage(self, damage):$/;"	m	class:Fighter
+take_turn	rogue-quest/tut_full.py	/^    def take_turn(self):$/;"	m	class:BasicMonster
+take_turn	rogue-quest/tut_full.py	/^    def take_turn(self):$/;"	m	class:ConfusedMonster
+target_monster	rogue-quest/tut_full.py	/^def target_monster(max_range=None):$/;"	f
+target_tile	rogue-quest/tut_full.py	/^def target_tile(max_range=None):$/;"	f
+toggle_equip	rogue-quest/tut_full.py	/^    def toggle_equip(self):  #toggle equip\/dequip status$/;"	m	class:Equipment
+turquoise	rogue-quest/libtcodpy.py	/^turquoise=Color(0,255,191)$/;"	v
+use	rogue-quest/tut_full.py	/^    def use(self):$/;"	m	class:Item
+value_converter	rogue-quest/libtcodpy.py	/^        def value_converter(name, typ, value):$/;"	f	function:parser_run
+violet	rogue-quest/libtcodpy.py	/^violet=Color(127,0,255)$/;"	v
+w	rogue-quest/libtcodpy.py	/^    w = property(getw, setw)$/;"	v	class:Bsp
+w	rogue-quest/libtcodpy.py	/^    w = property(getw, setw)$/;"	v	class:HeightMap
+white	rogue-quest/libtcodpy.py	/^white=Color(255,255,255)$/;"	v
+x	rogue-quest/libtcodpy.py	/^    x = property(getx, setx)$/;"	v	class:Bsp
+x1	rogue-quest/map.py	/^    def x1(self):$/;"	m	class:Rectangle
+x2	rogue-quest/map.py	/^    def x2(self):$/;"	m	class:Rectangle
+y	rogue-quest/libtcodpy.py	/^    y = property(gety, sety)$/;"	v	class:Bsp
+y1	rogue-quest/map.py	/^    def y1(self):$/;"	m	class:Rectangle
+y2	rogue-quest/map.py	/^    def y2(self):$/;"	m	class:Rectangle
+yellow	rogue-quest/libtcodpy.py	/^yellow=Color(255,255,0)$/;"	v

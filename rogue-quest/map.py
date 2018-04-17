@@ -1,5 +1,4 @@
 import libtcodpy as tcod
-import external
 
 from tile import Tile
 
@@ -20,7 +19,7 @@ class Rectangle(object):
         self._y1 = y
         self._x2 = x + w
         self._y2 = y + h
-    
+
     def is_intersecting(self, other):
         return (self.x1 <= other.x2 and self.x2 >= other.x1 and
                 self.y1 <= other.y2 and self.y2 >= other.y1)
@@ -58,7 +57,8 @@ class Map(object):
 
     """Represents the map of the game."""
 
-    def __init__(self, width, height):
+    def __init__(self, con, width, height, max_room_size, min_room_size, max_rooms,
+            torch_radius, light_walls, algorithm):
         """Initialize the map to a width and height
 
         :width: width of the map
@@ -69,7 +69,15 @@ class Map(object):
         self.light_wall = tcod.Color(130, 110, 50)
         self.dark_ground = tcod.Color(50, 50, 150)
         self.light_ground = tcod.Color(200, 180, 50)
+
+        self._torch_radius = torch_radius
+        self._light_walls = light_walls
+        self._algorithm = algorithm
         
+        self._max_room_size = max_room_size
+        self._min_room_size = min_room_size
+        self._max_rooms = max_rooms
+
         self._width = width
         self._height = height
         self._map = [ [Tile(True) 
@@ -77,6 +85,8 @@ class Map(object):
                 for x in range(self._width) ]
 
         self._fov_map = tcod.map_new(width, height)
+
+        self._con = con
 
 
     def set_blocking(self, blocking, x, y):
@@ -106,19 +116,26 @@ class Map(object):
             self._map[x][y].set_tile(False, False)
 
     def recalculate_fov(self, player_x, player_y):
-        tcod.map_compute_fov(self._fov_map, player_x, player_y, external.TORCH_RADIUS, external.FOV_LIGHT_WALLS, external.FOV_ALGO)
+        tcod.map_compute_fov(self._fov_map, player_x, player_y,
+                self._torch_radius, self._light_walls, self._algorithm)
 
     def generate_dungeon(self):
+        """
+        Generates the dungeon from the parameters specified
+
+        process is mostly random and only checks for intersections of rooms
+        intersection of hallways is allowed.
+        """
         rooms = []
         num_rooms = 0
         
-        for r in range(external.MAX_ROOMS):
+        for r in range(self._max_rooms):
             # Random width and height
-            w = tcod.random_get_int(0, external.ROOM_MIN_SIZE, external.ROOM_MAX_SIZE)
-            h = tcod.random_get_int(0, external.ROOM_MIN_SIZE, external.ROOM_MAX_SIZE)
+            w = tcod.random_get_int(0, self._min_room_size, self._max_room_size)
+            h = tcod.random_get_int(0, self._min_room_size, self._max_room_size)
             # Random position
-            x = tcod.random_get_int(0, 0, external.MAP_WIDTH - w - 1)
-            y = tcod.random_get_int(0, 0, external.MAP_HEIGHT - h - 1)
+            x = tcod.random_get_int(0, 0, self._width - w - 1)
+            y = tcod.random_get_int(0, 0, self._height - h - 1)
             
             new_room = Rectangle(x, y, w, h)
 
@@ -151,24 +168,35 @@ class Map(object):
                         not self._map[x][y].block_sight, not self._map[x][y].blocking)
         return rooms[0].center()
 
-    def render(self):
-        for y in range(external.MAP_HEIGHT):
-            for x in range(external.SCREEN_WIDTH):
+    def render(self, recalculate_fov, player_x, player_y):
+        """
+        Renders the dungeon map and recalculates the fov
+        if necessary
+        """
+        if recalculate_fov:
+            self.recalculate_fov(player_x, player_y)
+
+        for y in range(self._height):
+            for x in range(self._width):
                 visible = tcod.map_is_in_fov(self._fov_map, x, y)
                 wall = self._map[x][y].block_sight
                 if not visible:
+                    # if the tile hasnt been explored leave it black
                     if self._map[x][y].explored:
                         if wall:
-                            tcod.console_put_char_ex(external.con, x, y, '#', self.dark_wall, tcod.black)
-                            #  tcod.console_put_char(external.con, x, y, '#', tcod.black)
+                            tcod.console_put_char_ex(self._con, x, y, '#',
+                                    self.dark_wall, tcod.black)
                         else:
-                            tcod.console_put_char_ex(external.con, x, y, '.', self.dark_ground, tcod.black)
-                            #  tcod.console_put_char(external.con, x, y, '.', tcod.black)
+                            tcod.console_put_char_ex(self._con, x, y, '.',
+                                    self.dark_ground, tcod.black)
                 else:
                     if wall:
-                        tcod.console_put_char_ex(external.con, x, y, '#', self.light_wall, tcod.black)
+                        tcod.console_put_char_ex(self._con, x, y, '#',
+                                self.light_wall, tcod.black)
                     else:
-                        tcod.console_put_char_ex(external.con, x, y, '.', self.light_ground, tcod.black)
+                        tcod.console_put_char_ex(self._con, x, y, '.',
+                                self.light_ground, tcod.black)
+                    # if the tile is in vision and hasnt been seen before mark it explored
                     self._map[x][y].explored = True
 
 
